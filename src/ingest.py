@@ -2,12 +2,12 @@ import pandas as pd
 import requests
 from pathlib import Path
 
-BASE_URL = "https://raw.githubusercontent.com/stiles/survivoR2py/main/data/processed/csv"
+URL = "https://raw.githubusercontent.com/stiles/survivoR2py/main/data/processed/csv"
 TABLES = ["vote_history", "castaways", "boot_mapping", "season_summary"]
 RAW_DIR = Path("data/raw")
 
 def fetch_table(name: str) -> pd.DataFrame:
-    url = f"{BASE_URL}/{name}.csv"
+    url = f"{URL}/{name}.csv"
     resp = requests.get(url, timeout=30)
     resp.raise_for_status()
     RAW_DIR.mkdir(parents=True, exist_ok=True)

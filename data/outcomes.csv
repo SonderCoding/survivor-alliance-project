@@ -1,0 +1,1319 @@
+season,castaway_id,castaway,result,result_number,jury,finalist,winner,original_tribe
+1.0,US0001,Sonja,1st voted out,16.0,False,False,False,Tagi
+1.0,US0002,B.B.,2nd voted out,15.0,False,False,False,Pagong
+1.0,US0003,Stacey,3rd voted out,14.0,False,False,False,Tagi
+1.0,US0004,Ramona,4th voted out,13.0,False,False,False,Pagong
+1.0,US0005,Dirk,5th voted out,12.0,False,False,False,Tagi
+1.0,US0006,Joel,6th voted out,11.0,False,False,False,Pagong
+1.0,US0007,Gretchen,7th voted out,10.0,False,False,False,Pagong
+1.0,US0008,Greg,8th voted out,9.0,True,False,False,Pagong
+1.0,US0009,Jenna,9th voted out,8.0,True,False,False,Pagong
+1.0,US0010,Gervase,10th voted out,7.0,True,False,False,Pagong
+1.0,US0011,Colleen,11th voted out,6.0,True,False,False,Pagong
+1.0,US0012,Sean,12th voted out,5.0,True,False,False,Tagi
+1.0,US0013,Sue,13th voted out,4.0,True,False,False,Tagi
+1.0,US0014,Rudy,14th voted out,3.0,True,False,False,Tagi
+1.0,US0015,Kelly,Runner-up,2.0,False,True,False,Tagi
+1.0,US0016,Richard,Sole Survivor,1.0,False,True,True,Tagi
+2.0,US0017,Debb,1st voted out,16.0,False,False,False,Kucha
+2.0,US0018,Kel,2nd voted out,15.0,False,False,False,Ogakor
+2.0,US0019,Maralyn,3rd voted out,14.0,False,False,False,Ogakor
+2.0,US0020,Mitchell,4th voted out,13.0,False,False,False,Ogakor
+2.0,US0021,Kimmi,5th voted out,12.0,False,False,False,Kucha
+2.0,US0022,Michael,Medically evacuated,11.0,False,False,False,Kucha
+2.0,US0023,Jeff,6th voted out,10.0,False,False,False,Kucha
+2.0,US0024,Alicia,7th voted out,9.0,True,False,False,Kucha
+2.0,US0025,Jerri,8th voted out,8.0,True,False,False,Ogakor
+2.0,US0026,Nick,9th voted out,7.0,True,False,False,Kucha
+2.0,US0027,Amber,10th voted out,6.0,True,False,False,Ogakor
+2.0,US0028,Rodger,11th voted out,5.0,True,False,False,Kucha
+2.0,US0029,Elisabeth,12th voted out,4.0,True,False,False,Kucha
+2.0,US0030,Keith,13th voted out,3.0,True,False,False,Ogakor
+2.0,US0031,Colby,Runner-up,2.0,False,True,False,Ogakor
+2.0,US0032,Tina,Sole Survivor,1.0,False,True,True,Ogakor
+3.0,US0033,Diane,1st voted out,16.0,False,False,False,Boran
+3.0,US0034,Jessie,2nd voted out,15.0,False,False,False,Boran
+3.0,US0035,Carl,3rd voted out,14.0,False,False,False,Samburu
+3.0,US0036,Linda,4th voted out,13.0,False,False,False,Samburu
+3.0,US0037,Silas,5th voted out,12.0,False,False,False,Samburu
+3.0,US0038,Lindsey,6th voted out,11.0,False,False,False,Samburu
+3.0,US0039,Clarence,7th voted out,10.0,False,False,False,Boran
+3.0,US0040,Kelly,8th voted out,9.0,True,False,False,Boran
+3.0,US0041,Brandon,9th voted out,8.0,True,False,False,Samburu
+3.0,US0042,Frank,10th voted out,7.0,True,False,False,Samburu
+3.0,US0043,Kim P.,11th voted out,6.0,True,False,False,Samburu
+3.0,US0044,Teresa,12th voted out,5.0,True,False,False,Samburu
+3.0,US0045,Tom,13th voted out,4.0,True,False,False,Boran
+3.0,US0046,Lex,14th voted out,3.0,True,False,False,Boran
+3.0,US0047,Kim J.,Runner-up,2.0,False,True,False,Boran
+3.0,US0048,Ethan,Sole Survivor,1.0,False,True,True,Boran
+4.0,US0049,Peter,1st voted out,16.0,False,False,False,Maraamu
+4.0,US0050,Patricia,2nd voted out,15.0,False,False,False,Maraamu
+4.0,US0051,Hunter,3rd voted out,14.0,False,False,False,Maraamu
+4.0,US0052,Sarah,4th voted out,13.0,False,False,False,Maraamu
+4.0,US0053,Gabriel,5th voted out,12.0,False,False,False,Rotu
+4.0,US0054,Gina,6th voted out,11.0,False,False,False,Maraamu
+4.0,US0055,Boston Rob,7th voted out,10.0,False,False,False,Maraamu
+4.0,US0056,John,8th voted out,9.0,True,False,False,Rotu
+4.0,US0057,Zoe,9th voted out,8.0,True,False,False,Rotu
+4.0,US0058,Tammy,10th voted out,7.0,True,False,False,Rotu
+4.0,US0059,Robert,11th voted out,6.0,True,False,False,Rotu
+4.0,US0060,Sean,12th voted out,5.0,True,False,False,Maraamu
+4.0,US0061,Paschal,Eliminated,4.0,True,False,False,Rotu
+4.0,US0062,Kathy,13th voted out,3.0,True,False,False,Rotu
+4.0,US0063,Neleh,Runner-up,2.0,False,True,False,Rotu
+4.0,US0064,Vecepia,Sole Survivor,1.0,False,True,True,Maraamu
+5.0,US0065,John,1st voted out,16.0,False,False,False,Chuay Gahn
+5.0,US0066,Tanya,2nd voted out,15.0,False,False,False,Chuay Gahn
+5.0,US0067,Jed,3rd voted out,14.0,False,False,False,Sook Jai
+5.0,US0068,Ghandia,4th voted out,13.0,False,False,False,Chuay Gahn
+5.0,US0069,Stephanie,5th voted out,12.0,False,False,False,Sook Jai
+5.0,US0070,Robb,6th voted out,11.0,False,False,False,Sook Jai
+5.0,US0071,Shii Ann,7th voted out,10.0,False,False,False,Sook Jai
+5.0,US0072,Erin,8th voted out,9.0,True,False,False,Sook Jai
+5.0,US0073,Ken,9th voted out,8.0,True,False,False,Sook Jai
+5.0,US0074,Penny,10th voted out,7.0,True,False,False,Sook Jai
+5.0,US0075,Jake,11th voted out,6.0,True,False,False,Sook Jai
+5.0,US0076,Ted,12th voted out,5.0,True,False,False,Chuay Gahn
+5.0,US0077,Helen,13th voted out,4.0,True,False,False,Chuay Gahn
+5.0,US0078,Jan,14th voted out,3.0,True,False,False,Chuay Gahn
+5.0,US0079,Clay,Runner-up,2.0,False,True,False,Chuay Gahn
+5.0,US0080,Brian,Sole Survivor,1.0,False,True,True,Chuay Gahn
+6.0,US0081,Ryan,1st voted out,16.0,False,False,False,Tambaqui
+6.0,US0082,Janet,2nd voted out,15.0,False,False,False,Jaburu
+6.0,US0083,Daniel,3rd voted out,14.0,False,False,False,Tambaqui
+6.0,US0084,JoAnna,4th voted out,13.0,False,False,False,Jaburu
+6.0,US0085,Jeanne,5th voted out,12.0,False,False,False,Jaburu
+6.0,US0086,Shawna,6th voted out,11.0,False,False,False,Jaburu
+6.0,US0087,Roger,7th voted out,10.0,False,False,False,Tambaqui
+6.0,US0088,Dave,8th voted out,9.0,True,False,False,Tambaqui
+6.0,US0089,Deena,9th voted out,8.0,True,False,False,Jaburu
+6.0,US0090,Alex,10th voted out,7.0,True,False,False,Tambaqui
+6.0,US0091,Christy,11th voted out,6.0,True,False,False,Jaburu
+6.0,US0092,Heidi,12th voted out,5.0,True,False,False,Jaburu
+6.0,US0093,Butch,13th voted out,4.0,True,False,False,Tambaqui
+6.0,US0094,Rob,14th voted out,3.0,True,False,False,Tambaqui
+6.0,US0095,Matthew,Runner-up,2.0,False,True,False,Tambaqui
+6.0,US0096,Jenna,Sole Survivor,1.0,False,True,True,Jaburu
+7.0,US0097,Nicole,1st voted out,16.0,False,False,False,Morgan
+7.0,US0098,Ryan S.,2nd voted out,15.0,False,False,False,Morgan
+7.0,US0099,Lillian,3rd voted out,,False,False,False,Morgan
+7.0,US0100,Burton,4th voted out,,False,False,False,Drake
+7.0,US0101,Michelle,5th voted out,14.0,False,False,False,Drake
+7.0,US0102,Trish,6th voted out,13.0,False,False,False,Drake
+7.0,US0103,Shawn,7th voted out,12.0,False,False,False,Drake
+7.0,US0104,Osten,Quit,11.0,False,False,False,Morgan
+7.0,US0105,Andrew,8th voted out,10.0,False,False,False,Morgan
+7.0,US0106,Ryan O.,9th voted out,9.0,True,False,False,Morgan
+7.0,US0107,Rupert,10th voted out,8.0,True,False,False,Drake
+7.0,US0108,Tijuana,11th voted out,7.0,True,False,False,Morgan
+7.0,US0109,Christa,12th voted out,6.0,True,False,False,Drake
+7.0,US0110,Darrah,14th voted out,4.0,True,False,False,Morgan
+7.0,US0111,Jonny Fairplay,15th voted out,3.0,True,False,False,Drake
+7.0,US0112,Sandra,Sole Survivor,1.0,False,True,True,Drake
+8.0,US0032,Tina,1st voted out,18.0,False,False,False,Saboga
+8.0,US0014,Rudy,2nd voted out,17.0,False,False,False,Saboga
+8.0,US0096,Jenna M.,Quit,16.0,False,False,False,Mogo Mogo
+8.0,US0094,Rob C.,3rd voted out,15.0,False,False,False,Chapera
+8.0,US0016,Richard,4th voted out,14.0,False,False,False,Mogo Mogo
+8.0,US0013,Sue,Quit,13.0,False,False,False,Chapera
+8.0,US0031,Colby,5th voted out,12.0,False,False,False,Mogo Mogo
+8.0,US0048,Ethan,6th voted out,11.0,False,False,False,Saboga
+8.0,US0025,Jerri,7th voted out,10.0,False,False,False,Saboga
+8.0,US0046,Lex,8th voted out,9.0,True,False,False,Mogo Mogo
+8.0,US0062,Kathy,9th voted out,8.0,True,False,False,Mogo Mogo
+8.0,US0024,Alicia,10th voted out,7.0,True,False,False,Chapera
+8.0,US0071,Shii Ann,11th voted out,6.0,True,False,False,Mogo Mogo
+8.0,US0045,Tom,12th voted out,5.0,True,False,False,Chapera
+8.0,US0107,Rupert,13th voted out,4.0,True,False,False,Saboga
+8.0,US0009,Jenna L.,14th voted out,3.0,True,False,False,Saboga
+8.0,US0055,Boston Rob,Runner-up,2.0,False,True,False,Chapera
+8.0,US0027,Amber,Sole Survivor,1.0,False,True,True,Chapera
+9.0,US0113,Brook,1st voted out,18.0,False,False,False,Lopevi
+9.0,US0114,Dolly,2nd voted out,17.0,False,False,False,Yasur
+9.0,US0115,John P.,3rd voted out,16.0,False,False,False,Lopevi
+9.0,US0116,Mia,4th voted out,15.0,False,False,False,Yasur
+9.0,US0117,Brady,5th voted out,14.0,False,False,False,Lopevi
+9.0,US0118,Travis,6th voted out,13.0,False,False,False,Lopevi
+9.0,US0119,Lisa,7th voted out,12.0,False,False,False,Yasur
+9.0,US0120,John K.,8th voted out,11.0,False,False,False,Lopevi
+9.0,US0121,Rory,9th voted out,10.0,False,False,False,Lopevi
+9.0,US0122,Lea,10th voted out,9.0,True,False,False,Lopevi
+9.0,US0123,Chad,11th voted out,8.0,True,False,False,Lopevi
+9.0,US0124,Leann,12th voted out,7.0,True,False,False,Yasur
+9.0,US0125,Ami,13th voted out,6.0,True,False,False,Yasur
+9.0,US0126,Julie,14th voted out,5.0,True,False,False,Yasur
+9.0,US0127,Eliza,15th voted out,4.0,True,False,False,Yasur
+9.0,US0128,Scout,16th voted out,3.0,True,False,False,Yasur
+9.0,US0129,Twila,Runner-up,2.0,False,True,False,Yasur
+9.0,US0130,Chris,Sole Survivor,1.0,False,True,True,Lopevi
+10.0,US0131,Jonathan,Eliminated,20.0,False,False,False,
+10.0,US0132,Wanda,Eliminated,19.0,False,False,False,
+10.0,US0133,Jolanda,1st voted out,18.0,False,False,False,Ulong
+10.0,US0134,Ashlee,2nd voted out,17.0,False,False,False,Ulong
+10.0,US0135,Jeff,3rd voted out,16.0,False,False,False,Ulong
+10.0,US0136,Kim,4th voted out,15.0,False,False,False,Ulong
+10.0,US0137,Willard,5th voted out,14.0,False,False,False,Koror
+10.0,US0138,Angie,6th voted out,13.0,False,False,False,Ulong
+10.0,US0139,James,7th voted out,12.0,False,False,False,Ulong
+10.0,US0140,Ibrehem,8th voted out,11.0,False,False,False,Ulong
+10.0,US0141,Bobby Jon,Lost fire challenge,10.0,False,False,False,Ulong
+10.0,US0142,Coby,9th voted out,9.0,True,False,False,Koror
+10.0,US0143,Janu,Quit,8.0,True,False,False,Koror
+10.0,US0144,Stephenie,10th voted out,7.0,True,False,False,Ulong
+10.0,US0145,Gregg,11th voted out,6.0,True,False,False,Koror
+10.0,US0146,Caryn,12th voted out,5.0,True,False,False,Koror
+10.0,US0147,Jenn,Lost fire challenge,4.0,True,False,False,Koror
+10.0,US0148,Ian,14th voted out,3.0,True,False,False,Koror
+10.0,US0149,Katie,Runner-up,2.0,False,True,False,Koror
+10.0,US0150,Tom,Sole Survivor,1.0,False,True,True,Koror
+11.0,US0151,Jim,1st voted out,18.0,False,False,False,Nakum
+11.0,US0152,Morgan,2nd voted out,17.0,False,False,False,Yaxha
+11.0,US0153,Brianna,3rd voted out,16.0,False,False,False,Yaxha
+11.0,US0154,Brooke,4th voted out,15.0,False,False,False,Nakum
+11.0,US0155,Blake,5th voted out,14.0,False,False,False,Nakum
+11.0,US0156,Margaret,6th voted out,13.0,False,False,False,Nakum
+11.0,US0157,Brian,7th voted out,12.0,False,False,False,Yaxha
+11.0,US0158,Amy,8th voted out,11.0,False,False,False,Yaxha
+11.0,US0159,Brandon,9th voted out,10.0,False,False,False,Nakum
+11.0,US0141,Bobby Jon,10th voted out,9.0,True,False,False,Nakum
+11.0,US0160,Jamie,11th voted out,8.0,True,False,False,Yaxha
+11.0,US0161,Gary,12th voted out,7.0,True,False,False,Yaxha
+11.0,US0162,Judd,13th voted out,6.0,True,False,False,Nakum
+11.0,US0163,Cindy,14th voted out,5.0,True,False,False,Nakum
+11.0,US0164,Lydia,15th voted out,4.0,True,False,False,Yaxha
+11.0,US0165,Rafe,16th voted out,3.0,True,False,False,Yaxha
+11.0,US0144,Stephenie,Runner-up,2.0,False,True,False,Yaxha
+11.0,US0166,Danni,Sole Survivor,1.0,False,True,True,Nakum
+12.0,US0167,Tina,1st voted out,16.0,False,False,False,Casaya
+12.0,US0168,Melinda,2nd voted out,15.0,False,False,False,Casaya
+12.0,US0169,Misty,3rd voted out,14.0,False,False,False,Bayoneta
+12.0,US0170,Ruth Marie,4th voted out,13.0,False,False,False,Casaya
+12.0,US0171,Bobby,5th voted out,12.0,False,False,False,Viveros
+12.0,US0172,Dan,6th voted out,11.0,False,False,False,La Mina
+12.0,US0173,Nick,7th voted out,10.0,False,False,False,Viveros
+12.0,US0174,Austin,8th voted out,9.0,True,False,False,Viveros
+12.0,US0175,Sally,9th voted out,8.0,True,False,False,Bayoneta
+12.0,US0176,Bruce,Medically evacuated,7.0,True,False,False,La Mina
+12.0,US0177,Courtney,10th voted out,6.0,True,False,False,Bayoneta
+12.0,US0178,Shane,11th voted out,5.0,True,False,False,La Mina
+12.0,US0179,Cirie,12th voted out,4.0,True,False,False,Casaya
+12.0,US0180,Terry,13th voted out,3.0,True,False,False,La Mina
+12.0,US0181,Danielle,Runner-up,2.0,False,True,False,Bayoneta
+12.0,US0182,Aras,Sole Survivor,1.0,False,True,True,Viveros
+13.0,US0183,Sekou,1st voted out,20.0,False,False,False,Manihiki
+13.0,US0184,Billy,2nd voted out,19.0,False,False,False,Aitutaki
+13.0,US0185,Cecilia,3rd voted out,18.0,False,False,False,Aitutaki
+13.0,US0186,J.P.,4th voted out,17.0,False,False,False,Aitutaki
+13.0,US0187,Stephannie,5th voted out,16.0,False,False,False,Manihiki
+13.0,US0188,Cao Boi,6th voted out,15.0,False,False,False,Puka Puka
+13.0,US0189,Cristina,7th voted out,14.0,False,False,False,Aitutaki
+13.0,US0190,Jessica,8th voted out,13.0,False,False,False,Rarotonga
+13.0,US0191,Brad,9th voted out,12.0,True,False,False,Puka Puka
+13.0,US0192,Rebecca,10th voted out,11.0,True,False,False,Manihiki
+13.0,US0193,Jenny,11th voted out,10.0,True,False,False,Puka Puka
+13.0,US0194,Nate,12th voted out,9.0,True,False,False,Manihiki
+13.0,US0195,Candice,13th voted out,8.0,True,False,False,Rarotonga
+13.0,US0196,Jonathan,14th voted out,7.0,True,False,False,Rarotonga
+13.0,US0197,Parvati,15th voted out,6.0,True,False,False,Rarotonga
+13.0,US0198,Adam,16th voted out,5.0,True,False,False,Rarotonga
+13.0,US0199,Sundra,Lost fire challenge,4.0,True,False,False,Manihiki
+13.0,US0200,Becky,2nd runner-up,3.0,False,True,False,Puka Puka
+13.0,US0201,Ozzy,Runner-up,2.0,False,True,False,Aitutaki
+13.0,US0202,Yul,Sole Survivor,1.0,False,True,True,Puka Puka
+14.0,US0203,Jessica,1st voted out,19.0,False,False,False,Ravu
+14.0,US0204,Erica,2nd voted out,18.0,False,False,False,Ravu
+14.0,US0205,Sylvia,3rd voted out,17.0,False,False,False,Ravu
+14.0,US0206,Gary,Quit,16.0,False,False,False,Moto
+14.0,US0207,Liliana,4th voted out,15.0,False,False,False,Moto
+14.0,US0208,Rita,5th voted out,14.0,False,False,False,Ravu
+14.0,US0209,Anthony,6th voted out,13.0,False,False,False,Ravu
+14.0,US0210,Rocky,7th voted out,12.0,True,False,False,Ravu
+14.0,US0211,Lisi,8th voted out,11.0,True,False,False,Moto
+14.0,US0212,Michelle,9th voted out,10.0,True,False,False,Ravu
+14.0,US0213,Edgardo,10th voted out,9.0,True,False,False,Moto
+14.0,US0214,Mookie,11th voted out,8.0,True,False,False,Ravu
+14.0,US0215,Alex,12th voted out,7.0,True,False,False,Moto
+14.0,US0216,Stacy,13th voted out,6.0,True,False,False,Moto
+14.0,US0217,Boo,14th voted out,5.0,True,False,False,Moto
+14.0,US0218,Yau-Man,15th voted out,4.0,True,False,False,Ravu
+14.0,US0219,Dreamz,Runner-up,3.0,False,True,False,Moto
+14.0,US0220,Cassandra,Runner-up,2.0,False,True,False,Moto
+14.0,US0221,Earl,Sole Survivor,1.0,False,True,True,Ravu
+15.0,US0222,Chicken,1st voted out,16.0,False,False,False,Zhan Hu
+15.0,US0223,Ashley,2nd voted out,15.0,False,False,False,Zhan Hu
+15.0,US0224,Leslie,3rd voted out,14.0,False,False,False,Fei Long
+15.0,US0225,Dave,4th voted out,13.0,False,False,False,Zhan Hu
+15.0,US0226,Aaron,5th voted out,12.0,False,False,False,Fei Long
+15.0,US0227,Sherea,6th voted out,11.0,False,False,False,Zhan Hu
+15.0,US0228,Jaime,7th voted out,10.0,True,False,False,Zhan Hu
+15.0,US0229,Jean-Robert,8th voted out,9.0,True,False,False,Fei Long
+15.0,US0230,Frosti,9th voted out,8.0,True,False,False,Zhan Hu
+15.0,US0231,James,10th voted out,7.0,True,False,False,Fei Long
+15.0,US0232,Erik,11th voted out,6.0,True,False,False,Zhan Hu
+15.0,US0233,Peih-Gee,12th voted out,5.0,True,False,False,Zhan Hu
+15.0,US0234,Denise,13th voted out,4.0,True,False,False,Fei Long
+15.0,US0235,Amanda,2nd runner-up,3.0,False,True,False,Fei Long
+15.0,US0236,Courtney,Runner-up,2.0,False,True,False,Fei Long
+15.0,US0237,Todd,Sole Survivor,1.0,False,True,True,Fei Long
+16.0,US0111,Jonny Fairplay,1st voted out,20.0,False,False,False,Malakal
+16.0,US0238,Mary,2nd voted out,19.0,False,False,False,Airai
+16.0,US0218,Yau-Man,3rd voted out,18.0,False,False,False,Malakal
+16.0,US0239,Mikey B,4th voted out,17.0,False,False,False,Airai
+16.0,US0240,Joel,5th voted out,16.0,False,False,False,Airai
+16.0,US0196,Jonathan,Medically evacuated,15.0,False,False,False,Malakal
+16.0,US0241,Chet,6th voted out,14.0,False,False,False,Airai
+16.0,US0242,Kathy,Quit,13.0,False,False,False,Airai
+16.0,US0243,Tracy,7th voted out,12.0,False,False,False,Airai
+16.0,US0125,Ami,8th voted out,11.0,False,False,False,Malakal
+16.0,US0127,Eliza,9th voted out,10.0,True,False,False,Malakal
+16.0,US0201,Ozzy,10th voted out,9.0,True,False,False,Malakal
+16.0,US0244,Jason,11th voted out,8.0,True,False,False,Airai
+16.0,US0231,James,Medically evacuated,7.0,True,False,False,Malakal
+16.0,US0245,Alexis,12th voted out,6.0,True,False,False,Airai
+16.0,US0246,Erik,13th voted out,5.0,True,False,False,Airai
+16.0,US0247,Natalie,14th voted out,4.0,True,False,False,Airai
+16.0,US0179,Cirie,15th voted out,3.0,True,False,False,Malakal
+16.0,US0235,Amanda,Runner-up,2.0,False,True,False,Malakal
+16.0,US0197,Parvati,Sole Survivor,1.0,False,True,True,Malakal
+17.0,US0248,Michelle,1st voted out,18.0,False,False,False,Fang
+17.0,US0249,Gillian,2nd voted out,17.0,False,False,False,Fang
+17.0,US0250,Paloma,3rd voted out,16.0,False,False,False,Kota
+17.0,US0251,Jacquie,4th voted out,15.0,False,False,False,Kota
+17.0,US0252,GC,5th voted out,14.0,False,False,False,Fang
+17.0,US0253,Kelly,6th voted out,13.0,False,False,False,Kota
+17.0,US0254,Ace,7th voted out,12.0,False,False,False,Kota
+17.0,US0255,Dan,8th voted out,11.0,False,False,False,Fang
+17.0,US0256,Marcus,9th voted out,10.0,True,False,False,Kota
+17.0,US0257,Charlie,10th voted out,9.0,True,False,False,Kota
+17.0,US0258,Randy,11th voted out,8.0,True,False,False,Fang
+17.0,US0259,Corinne,12th voted out,7.0,True,False,False,Kota
+17.0,US0260,Crystal,13th voted out,6.0,True,False,False,Fang
+17.0,US0261,Ken,14th voted out,5.0,True,False,False,Fang
+17.0,US0262,Matty,Lost fire challenge,4.0,True,False,False,Fang
+17.0,US0263,Sugar,2nd runner-up,3.0,False,True,False,Kota
+17.0,US0264,Susie,Runner-up,2.0,False,True,False,Fang
+17.0,US0265,Bob,Sole Survivor,1.0,False,True,True,Kota
+18.0,US0266,Carolina,1st voted out,16.0,False,False,False,Jalapao
+18.0,US0267,Candace,2nd voted out,15.0,False,False,False,Timbira
+18.0,US0268,Jerry,3rd voted out,14.0,False,False,False,Timbira
+18.0,US0269,Sandy,4th voted out,13.0,False,False,False,Jalapao
+18.0,US0270,Spencer,5th voted out,12.0,False,False,False,Jalapao
+18.0,US0271,Sydney,6th voted out,11.0,False,False,False,Jalapao
+18.0,US0272,Joe,Medically evacuated,10.0,False,False,False,Jalapao
+18.0,US0273,Brendan,7th voted out,9.0,True,False,False,Timbira
+18.0,US0274,Tyson,8th voted out,8.0,True,False,False,Timbira
+18.0,US0275,Sierra,9th voted out,7.0,True,False,False,Timbira
+18.0,US0276,Debbie,10th voted out,6.0,True,False,False,Timbira
+18.0,US0277,Coach,11th voted out,5.0,True,False,False,Timbira
+18.0,US0278,Taj,12th voted out,4.0,True,False,False,Jalapao
+18.0,US0279,Erinn,13th voted out,3.0,True,False,False,Timbira
+18.0,US0280,Stephen,Runner-up,2.0,False,True,False,Jalapao
+18.0,US0281,J.T.,Sole Survivor,1.0,False,True,True,Jalapao
+19.0,US0282,Marisa,1st voted out,20.0,False,False,False,Foa Foa
+19.0,US0283,Mike,Medically evacuated,19.0,False,False,False,Foa Foa
+19.0,US0284,Betsy,2nd voted out,18.0,False,False,False,Foa Foa
+19.0,US0285,Ben,3rd voted out,17.0,False,False,False,Foa Foa
+19.0,US0286,Yasmin,4th voted out,16.0,False,False,False,Galu
+19.0,US0287,Ashley,5th voted out,15.0,False,False,False,Foa Foa
+19.0,US0288,Russell S.,Medically evacuated,14.0,False,False,False,Galu
+19.0,US0289,Liz,6th voted out,13.0,False,False,False,Foa Foa
+19.0,US0290,Erik,7th voted out,12.0,True,False,False,Galu
+19.0,US0291,Kelly,8th voted out,11.0,True,False,False,Galu
+19.0,US0292,Laura,9th voted out,10.0,True,False,False,Galu
+19.0,US0293,John,10th voted out,9.0,True,False,False,Galu
+19.0,US0294,Dave,11th voted out,8.0,True,False,False,Galu
+19.0,US0295,Monica,12th voted out,7.0,True,False,False,Galu
+19.0,US0296,Shambo,13th voted out,6.0,True,False,False,Galu
+19.0,US0297,Jaison,14th voted out,5.0,True,False,False,Foa Foa
+19.0,US0298,Brett,15th voted out,4.0,True,False,False,Galu
+19.0,US0299,Mick,2nd runner-up,3.0,False,True,False,Foa Foa
+19.0,US0300,Russell H.,Runner-up,2.0,False,True,False,Foa Foa
+19.0,US0301,Natalie,Sole Survivor,1.0,False,True,True,Foa Foa
+20.0,US0263,Sugar,1st voted out,20.0,False,False,False,Heroes
+20.0,US0144,Stephenie,2nd voted out,19.0,False,False,False,Heroes
+20.0,US0258,Randy,3rd voted out,18.0,False,False,False,Villains
+20.0,US0179,Cirie,4th voted out,17.0,False,False,False,Heroes
+20.0,US0150,Tom,5th voted out,16.0,False,False,False,Heroes
+20.0,US0274,Tyson,6th voted out,15.0,False,False,False,Villains
+20.0,US0231,James,7th voted out,14.0,False,False,False,Heroes
+20.0,US0055,Boston Rob,8th voted out,13.0,False,False,False,Villains
+20.0,US0277,Coach,9th voted out,12.0,True,False,False,Villains
+20.0,US0236,Courtney,10th voted out,11.0,True,False,False,Villains
+20.0,US0281,J.T.,11th voted out,10.0,True,False,False,Heroes
+20.0,US0235,Amanda,12th voted out,9.0,True,False,False,Heroes
+20.0,US0195,Candice,13th voted out,8.0,True,False,False,Heroes
+20.0,US0181,Danielle,14th voted out,7.0,True,False,False,Villains
+20.0,US0107,Rupert,15th voted out,6.0,True,False,False,Heroes
+20.0,US0031,Colby,16th voted out,5.0,True,False,False,Heroes
+20.0,US0025,Jerri,17th voted out,4.0,True,False,False,Villains
+20.0,US0300,Russell,2nd runner-up,3.0,False,True,False,Villains
+20.0,US0197,Parvati,Runner-up,2.0,False,True,False,Villains
+20.0,US0112,Sandra,Sole Survivor,1.0,False,True,True,Villains
+21.0,US0302,Wendy,1st voted out,20.0,False,False,False,Espada
+21.0,US0303,Shannon,2nd voted out,19.0,False,False,False,La Flor
+21.0,US0304,Jimmy J.,3rd voted out,18.0,False,False,False,Espada
+21.0,US0305,Jimmy T.,4th voted out,17.0,False,False,False,Espada
+21.0,US0306,Tyrone,5th voted out,16.0,False,False,False,Espada
+21.0,US0307,Kelly B.,6th voted out,15.0,False,False,False,La Flor
+21.0,US0308,Yve,7th voted out,14.0,False,False,False,Espada
+21.0,US0309,Jill,8th voted out,13.0,False,False,False,Espada
+21.0,US0310,Alina,9th voted out,12.0,True,False,False,La Flor
+21.0,US0311,Marty,10th voted out,11.0,True,False,False,Espada
+21.0,US0312,Brenda,11th voted out,10.0,True,False,False,La Flor
+21.0,US0313,NaOnka,Quit,9.0,True,False,False,La Flor
+21.0,US0314,Purple Kelly,Quit,8.0,True,False,False,La Flor
+21.0,US0315,Benry,12th voted out,7.0,True,False,False,La Flor
+21.0,US0316,Jane,13th voted out,6.0,True,False,False,Espada
+21.0,US0317,Dan,14th voted out,5.0,True,False,False,Espada
+21.0,US0318,Holly,15th voted out,4.0,True,False,False,Espada
+21.0,US0319,Sash,2nd runner-up,3.0,False,True,False,La Flor
+21.0,US0320,Chase,Runner-up,2.0,False,True,False,La Flor
+21.0,US0321,Fabio,Sole Survivor,1.0,False,True,True,La Flor
+22.0,US0322,Francesca,1st voted out,18.0,False,False,False,Ometepe
+22.0,US0323,Matt,2nd voted out,,False,False,False,Ometepe
+22.0,US0300,Russell,3rd voted out,17.0,False,False,False,Zapatera
+22.0,US0324,Kristina,4th voted out,16.0,False,False,False,Ometepe
+22.0,US0325,Krista,5th voted out,15.0,False,False,False,Zapatera
+22.0,US0326,Stephanie,6th voted out,14.0,False,False,False,Zapatera
+22.0,US0327,Sarita,7th voted out,13.0,False,False,False,Zapatera
+22.0,US0328,Mike,9th voted out,11.0,True,False,False,Zapatera
+22.0,US0329,David,10th voted out,10.0,True,False,False,Zapatera
+22.0,US0330,Julie,11th voted out,9.0,True,False,False,Zapatera
+22.0,US0331,Ralph,12th voted out,8.0,True,False,False,Zapatera
+22.0,US0332,Steve,13th voted out,7.0,True,False,False,Zapatera
+22.0,US0333,Andrea,14th voted out,,False,False,False,Ometepe
+22.0,US0334,Grant,15th voted out,6.0,True,False,False,Ometepe
+22.0,US0335,Ashley,17th voted out,4.0,True,False,False,Ometepe
+22.0,US0336,Natalie,2nd runner-up,3.0,False,True,False,Ometepe
+22.0,US0337,Phillip,Runner-up,2.0,False,True,False,Ometepe
+22.0,US0055,Boston Rob,Sole Survivor,1.0,False,True,True,Ometepe
+23.0,US0338,Semhar,1st voted out,18.0,False,False,False,Savaii
+23.0,US0339,Christine,2nd voted out,17.0,False,False,False,Upolu
+23.0,US0340,Papa Bear,3rd voted out,16.0,False,False,False,Savaii
+23.0,US0341,Stacey,4th voted out,15.0,False,False,False,Upolu
+23.0,US0342,Elyse,5th voted out,14.0,False,False,False,Savaii
+23.0,US0343,Mikayla,6th voted out,13.0,False,False,False,Upolu
+23.0,US0201,Ozzy,7th voted out,,False,False,False,Savaii
+23.0,US0344,Keith,8th voted out,12.0,True,False,False,Savaii
+23.0,US0345,Jim,10th voted out,11.0,True,False,False,Savaii
+23.0,US0346,Dawn,11th voted out,10.0,True,False,False,Savaii
+23.0,US0347,Whitney,12th voted out,9.0,True,False,False,Savaii
+23.0,US0348,Cochran,13th voted out,8.0,True,False,False,Savaii
+23.0,US0349,Edna,14th voted out,7.0,True,False,False,Upolu
+23.0,US0350,Brandon,15th voted out,6.0,True,False,False,Upolu
+23.0,US0351,Rick,16th voted out,5.0,True,False,False,Upolu
+23.0,US0352,Albert,2nd runner-up,3.0,False,True,False,Upolu
+23.0,US0277,Coach,Runner-up,2.0,False,True,False,Upolu
+23.0,US0353,Sophie,Sole Survivor,1.0,False,True,True,Upolu
+24.0,US0354,Kourtney,Medically evacuated,18.0,False,False,False,Salani
+24.0,US0355,Nina,1st voted out,17.0,False,False,False,Salani
+24.0,US0356,Matt,2nd voted out,16.0,False,False,False,Manono
+24.0,US0357,Bill,3rd voted out,15.0,False,False,False,Manono
+24.0,US0358,Monica,4th voted out,14.0,False,False,False,Salani
+24.0,US0359,Colton,Medically evacuated,13.0,False,False,False,Manono
+24.0,US0360,Jonas,5th voted out,12.0,True,False,False,Manono
+24.0,US0361,Michael,6th voted out,11.0,True,False,False,Manono
+24.0,US0362,Jay,7th voted out,10.0,True,False,False,Manono
+24.0,US0363,Leif,8th voted out,9.0,True,False,False,Manono
+24.0,US0364,Troyzan,9th voted out,8.0,True,False,False,Manono
+24.0,US0365,Kat,10th voted out,7.0,True,False,False,Salani
+24.0,US0366,Tarzan,11th voted out,6.0,True,False,False,Manono
+24.0,US0367,Alicia,12th voted out,5.0,True,False,False,Salani
+24.0,US0368,Christina,13th voted out,4.0,True,False,False,Salani
+24.0,US0369,Chelsea,2nd runner-up,3.0,False,True,False,Salani
+24.0,US0370,Sabrina,Runner-up,2.0,False,True,False,Salani
+24.0,US0371,Kim,Sole Survivor,1.0,False,True,True,Salani
+25.0,US0372,Zane,1st voted out,18.0,False,False,False,Matsing
+25.0,US0373,Roxy,2nd voted out,17.0,False,False,False,Matsing
+25.0,US0374,Angie,3rd voted out,16.0,False,False,False,Matsing
+25.0,US0288,Russell,4th voted out,15.0,False,False,False,Matsing
+25.0,US0375,Dana,Quit,14.0,False,False,False,Kalabaw
+25.0,US0376,Dawson,5th voted out,13.0,False,False,False,Kalabaw
+25.0,US0377,Katie,6th voted out,12.0,False,False,False,Kalabaw
+25.0,US0378,RC,7th voted out,11.0,True,False,False,Tandang
+25.0,US0379,Jeff,8th voted out,10.0,True,False,False,Kalabaw
+25.0,US0380,Artis,9th voted out,9.0,True,False,False,Tandang
+25.0,US0381,Pete,10th voted out,8.0,True,False,False,Tandang
+25.0,US0196,Jonathan,11th voted out,7.0,True,False,False,Kalabaw
+25.0,US0382,Carter,12th voted out,6.0,True,False,False,Kalabaw
+25.0,US0383,Abi-Maria,13th voted out,5.0,True,False,False,Tandang
+25.0,US0384,Malcolm,14th voted out,4.0,True,False,False,Matsing
+25.0,US0385,Lisa,Runner-up,3.0,False,True,False,Tandang
+25.0,US0022,Michael,Runner-up,2.0,False,True,False,Tandang
+25.0,US0386,Denise,Sole Survivor,1.0,False,True,True,Matsing
+26.0,US0322,Francesca,1st voted out,20.0,False,False,False,Bikal
+26.0,US0387,Allie,2nd voted out,19.0,False,False,False,Gota
+26.0,US0388,Hope,3rd voted out,18.0,False,False,False,Gota
+26.0,US0389,Shamar,Medically evacuated,17.0,False,False,False,Gota
+26.0,US0390,Laura,4th voted out,16.0,False,False,False,Gota
+26.0,US0350,Brandon,5th voted out,15.0,False,False,False,Bikal
+26.0,US0391,Matt,6th voted out,14.0,False,False,False,Gota
+26.0,US0392,Julia,7th voted out,13.0,False,False,False,Gota
+26.0,US0259,Corinne,8th voted out,12.0,False,False,False,Bikal
+26.0,US0393,Michael,9th voted out,11.0,True,False,False,Gota
+26.0,US0337,Phillip,10th voted out,10.0,True,False,False,Bikal
+26.0,US0384,Malcolm,11th voted out,9.0,True,False,False,Bikal
+26.0,US0394,Reynold,12th voted out,8.0,True,False,False,Gota
+26.0,US0333,Andrea,13th voted out,7.0,True,False,False,Bikal
+26.0,US0312,Brenda,14th voted out,6.0,True,False,False,Bikal
+26.0,US0246,Erik,Medically evacuated,5.0,True,False,False,Bikal
+26.0,US0395,Eddie,15th voted out,4.0,True,False,False,Gota
+26.0,US0396,Sherri,Runner-up,3.0,False,True,False,Gota
+26.0,US0346,Dawn,Runner-up,2.0,False,True,False,Bikal
+26.0,US0348,Cochran,Sole Survivor,1.0,False,True,True,Bikal
+27.0,US0397,Laura B.,1st voted out,,False,False,False,Tadhana
+27.0,US0195,Candice,2nd voted out,20.0,False,False,False,Galang
+27.0,US0107,Rupert,Switched,19.0,False,False,False,Galang
+27.0,US0398,Marissa,3rd voted out,18.0,False,False,False,Tadhana
+27.0,US0399,Rachel,4th voted out,17.0,False,False,False,Tadhana
+27.0,US0359,Colton,Quit,16.0,False,False,False,Galang
+27.0,US0400,John,5th voted out,15.0,False,False,False,Tadhana
+27.0,US0401,Brad,6th voted out,14.0,False,False,False,Tadhana
+27.0,US0292,Laura M.,7th voted out,,False,False,False,Galang
+27.0,US0365,Kat,8th voted out,13.0,False,False,False,Galang
+27.0,US0182,Aras,10th voted out,11.0,True,False,False,Galang
+27.0,US0402,Vytas,11th voted out,10.0,True,False,False,Tadhana
+27.0,US0032,Tina,12th voted out,,False,False,False,Galang
+27.0,US0403,Caleb,14th voted out,8.0,True,False,False,Tadhana
+27.0,US0404,Katie,Eliminated,7.0,True,False,False,Tadhana
+27.0,US0405,Hayden,15th voted out,6.0,True,False,False,Tadhana
+27.0,US0406,Ciera,16th voted out,5.0,True,False,False,Tadhana
+27.0,US0010,Gervase,2nd runner-up,3.0,False,True,False,Galang
+27.0,US0358,Monica,Runner-up,2.0,False,True,False,Galang
+27.0,US0274,Tyson,Sole Survivor,1.0,False,True,True,Galang
+28.0,US0407,David,1st voted out,18.0,False,False,False,Luzon
+28.0,US0408,Garrett,2nd voted out,17.0,False,False,False,Luzon
+28.0,US0409,Brice,3rd voted out,16.0,False,False,False,Solana
+28.0,US0410,J'Tia,4th voted out,15.0,False,False,False,Luzon
+28.0,US0411,Cliff,5th voted out,14.0,False,False,False,Aparri
+28.0,US0412,Lindsey,Quit,13.0,False,False,False,Aparri
+28.0,US0413,Alexis,6th voted out,12.0,False,False,False,Solana
+28.0,US0414,Sarah,7th voted out,11.0,True,False,False,Aparri
+28.0,US0415,Morgan,8th voted out,10.0,True,False,False,Solana
+28.0,US0416,LJ,9th voted out,9.0,True,False,False,Solana
+28.0,US0417,Jeremiah,10th voted out,8.0,True,False,False,Solana
+28.0,US0418,Jefra,11th voted out,7.0,True,False,False,Solana
+28.0,US0419,Tasha,12th voted out,6.0,True,False,False,Luzon
+28.0,US0420,Trish,13th voted out,5.0,True,False,False,Aparri
+28.0,US0421,Spencer,14th voted out,4.0,True,False,False,Luzon
+28.0,US0422,Kass,15th voted out,3.0,True,False,False,Luzon
+28.0,US0423,Woo,Runner-up,2.0,False,True,False,Aparri
+28.0,US0424,Tony,Sole Survivor,1.0,False,True,True,Aparri
+29.0,US0425,Nadiya,1st voted out,18.0,False,False,False,Coyopa
+29.0,US0426,Val,2nd voted out,17.0,False,False,False,Coyopa
+29.0,US0427,John,3rd voted out,16.0,False,False,False,Coyopa
+29.0,US0428,Drew,4th voted out,15.0,False,False,False,Hunahpu
+29.0,US0429,Kelley,5th voted out,14.0,False,False,False,Hunahpu
+29.0,US0430,Dale,6th voted out,13.0,False,False,False,Coyopa
+29.0,US0431,Julie,Quit,12.0,False,False,False,Hunahpu
+29.0,US0432,Josh,7th voted out,11.0,True,False,False,Coyopa
+29.0,US0433,Jeremy,8th voted out,10.0,True,False,False,Hunahpu
+29.0,US0434,Wes,9th voted out,9.0,True,False,False,Coyopa
+29.0,US0435,Reed,10th voted out,8.0,True,False,False,Hunahpu
+29.0,US0436,Alec,11th voted out,7.0,True,False,False,Coyopa
+29.0,US0437,Jon,12th voted out,6.0,True,False,False,Hunahpu
+29.0,US0438,Baylor,13th voted out,5.0,True,False,False,Coyopa
+29.0,US0439,Keith,14th voted out,4.0,True,False,False,Hunahpu
+29.0,US0440,Missy,2nd runner-up,3.0,False,True,False,Hunahpu
+29.0,US0441,Jaclyn,Runner-up,2.0,False,True,False,Coyopa
+29.0,US0442,Natalie,Sole Survivor,1.0,False,True,True,Hunahpu
+30.0,US0443,So,1st voted out,18.0,False,False,False,Masaya
+30.0,US0444,Vince,2nd voted out,17.0,False,False,False,Nagarote
+30.0,US0445,Nina,3rd voted out,16.0,False,False,False,Nagarote
+30.0,US0446,Lindsey,4th voted out,15.0,False,False,False,Escameca
+30.0,US0447,Max,5th voted out,14.0,False,False,False,Masaya
+30.0,US0448,Joaquin,6th voted out,13.0,False,False,False,Masaya
+30.0,US0449,Kelly,7th voted out,12.0,False,False,False,Escameca
+30.0,US0450,Hali,8th voted out,11.0,True,False,False,Nagarote
+30.0,US0451,Joe,9th voted out,10.0,True,False,False,Nagarote
+30.0,US0452,Jenn,10th voted out,9.0,True,False,False,Nagarote
+30.0,US0453,Shirin,11th voted out,8.0,True,False,False,Masaya
+30.0,US0454,Tyler,12th voted out,7.0,True,False,False,Masaya
+30.0,US0455,Dan,13th voted out,6.0,True,False,False,Escameca
+30.0,US0456,Sierra,14th voted out,5.0,True,False,False,Escameca
+30.0,US0457,Rodney,Lost fire challenge,4.0,True,False,False,Escameca
+30.0,US0458,Will,Runner-up,3.0,False,True,False,Nagarote
+30.0,US0459,Carolyn,Runner-up,2.0,False,True,False,Masaya
+30.0,US0460,Mike,Sole Survivor,1.0,False,True,True,Escameca
+31.0,US0402,Vytas,1st voted out,20.0,False,False,False,Ta Keo
+31.0,US0453,Shirin,2nd voted out,19.0,False,False,False,Ta Keo
+31.0,US0233,Peih-Gee,3rd voted out,18.0,False,False,False,Ta Keo
+31.0,US0023,Jeff,4th voted out,17.0,False,False,False,Ta Keo
+31.0,US0295,Monica,5th voted out,16.0,False,False,False,Bayon
+31.0,US0180,Terry,Withdrew,15.0,False,False,False,Ta Keo
+31.0,US0423,Woo,6th voted out,14.0,False,False,False,Ta Keo
+31.0,US0422,Kass,7th voted out,13.0,True,False,False,Bayon
+31.0,US0105,Andrew,8th voted out,12.0,True,False,False,Bayon
+31.0,US0015,Kelly,9th voted out,11.0,True,False,False,Ta Keo
+31.0,US0406,Ciera,10th voted out,10.0,True,False,False,Bayon
+31.0,US0280,Stephen,11th voted out,9.0,True,False,False,Bayon
+31.0,US0451,Joe,12th voted out,8.0,True,False,False,Bayon
+31.0,US0383,Abi-Maria,13th voted out,7.0,True,False,False,Ta Keo
+31.0,US0021,Kimmi,14th voted out,6.0,True,False,False,Bayon
+31.0,US0439,Keith,15th voted out,5.0,True,False,False,Bayon
+31.0,US0429,Kelley,16th voted out,4.0,True,False,False,Ta Keo
+31.0,US0421,Spencer,Runner-up,3.0,False,True,False,Ta Keo
+31.0,US0419,Tasha,Runner-up,2.0,False,True,False,Bayon
+31.0,US0433,Jeremy,Sole Survivor,1.0,False,True,True,Bayon
+32.0,US0461,Darnell,1st voted out,18.0,False,False,False,To Tang
+32.0,US0462,Jennifer,2nd voted out,17.0,False,False,False,To Tang
+32.0,US0463,Liz,3rd voted out,16.0,False,False,False,Chan Loh
+32.0,US0464,Caleb,Medically evacuated,15.0,False,False,False,Gondol
+32.0,US0465,Alecia,4th voted out,14.0,False,False,False,To Tang
+32.0,US0466,Anna,5th voted out,13.0,False,False,False,Gondol
+32.0,US0467,Peter,6th voted out,12.0,False,False,False,Chan Loh
+32.0,US0468,Neal,Medically evacuated,11.0,False,False,False,Chan Loh
+32.0,US0469,Nick,7th voted out,10.0,True,False,False,Gondol
+32.0,US0470,Debbie,8th voted out,9.0,True,False,False,Chan Loh
+32.0,US0471,Scot,9th voted out,8.0,True,False,False,To Tang
+32.0,US0472,Julia,10th voted out,7.0,True,False,False,Gondol
+32.0,US0473,Jason,11th voted out,6.0,True,False,False,To Tang
+32.0,US0474,Joe,Medically evacuated,5.0,True,False,False,Chan Loh
+32.0,US0475,Cydney,Lost fire challenge,4.0,True,False,False,To Tang
+32.0,US0476,Tai,2nd runner-up,3.0,False,True,False,Gondol
+32.0,US0477,Aubry,Runner-up,2.0,False,True,False,Chan Loh
+32.0,US0478,Michele,Sole Survivor,1.0,False,True,True,Gondol
+33.0,US0479,Rachel,1st voted out,20.0,False,False,False,Takali
+33.0,US0480,Mari,2nd voted out,19.0,False,False,False,Vanua
+33.0,US0481,Paul,3rd voted out,18.0,False,False,False,Takali
+33.0,US0482,Lucy,4th voted out,17.0,False,False,False,Takali
+33.0,US0483,CeCe,5th voted out,16.0,False,False,False,Takali
+33.0,US0484,Figgy,6th voted out,15.0,False,False,False,Vanua
+33.0,US0485,Michaela,7th voted out,14.0,False,False,False,Vanua
+33.0,US0486,Michelle,8th voted out,13.0,True,False,False,Vanua
+33.0,US0487,Taylor,9th voted out,12.0,True,False,False,Vanua
+33.0,US0488,Chris,10th voted out,11.0,True,False,False,Takali
+33.0,US0489,Jessica,Eliminated,10.0,True,False,False,Takali
+33.0,US0490,Zeke,12th voted out,9.0,True,False,False,Vanua
+33.0,US0491,Will,13th voted out,8.0,True,False,False,Vanua
+33.0,US0492,Sunday,14th voted out,7.0,True,False,False,Takali
+33.0,US0493,Jay,15th voted out,6.0,True,False,False,Vanua
+33.0,US0494,Bret,16th voted out,5.0,True,False,False,Takali
+33.0,US0495,David,17th voted out,4.0,True,False,False,Takali
+33.0,US0496,Hannah,Runner-up,3.0,False,True,False,Vanua
+33.0,US0497,Ken,Runner-up,2.0,False,True,False,Takali
+33.0,US0498,Adam,Sole Survivor,1.0,False,True,True,Vanua
+34.0,US0406,Ciera,1st voted out,20.0,False,False,False,Mana
+34.0,US0424,Tony,2nd voted out,19.0,False,False,False,Mana
+34.0,US0464,Caleb,3rd voted out,18.0,False,False,False,Mana
+34.0,US0384,Malcolm,4th voted out,17.0,False,False,False,Mana
+34.0,US0281,J.T.,5th voted out,16.0,False,False,False,Nuku
+34.0,US0112,Sandra,6th voted out,15.0,False,False,False,Mana
+34.0,US0023,Jeff,7th voted out,14.0,False,False,False,Mana
+34.0,US0450,Hali,8th voted out,13.0,True,False,False,Mana
+34.0,US0201,Ozzy,9th voted out,12.0,True,False,False,Nuku
+34.0,US0470,Debbie,10th voted out,11.0,True,False,False,Nuku
+34.0,US0490,Zeke,11th voted out,10.0,True,False,False,Nuku
+34.0,US0456,Sierra,12th voted out,9.0,True,False,False,Nuku
+34.0,US0333,Andrea,13th voted out,8.0,True,False,False,Nuku
+34.0,US0485,Michaela,14th voted out,7.0,True,False,False,Mana
+34.0,US0179,Cirie,Eliminated,6.0,True,False,False,Nuku
+34.0,US0477,Aubry,15th voted out,5.0,True,False,False,Mana
+34.0,US0476,Tai,16th voted out,4.0,True,False,False,Nuku
+34.0,US0364,Troyzan,2nd runner-up,3.0,False,True,False,Mana
+34.0,US0401,Brad,Runner-up,2.0,False,True,False,Nuku
+34.0,US0414,Sarah,Sole Survivor,1.0,False,True,True,Nuku
+35.0,US0499,Katrina,1st voted out,18.0,False,False,False,Levu
+35.0,US0500,Simone,2nd voted out,17.0,False,False,False,Yawa
+35.0,US0501,Patrick,3rd voted out,16.0,False,False,False,Yawa
+35.0,US0502,Alan,4th voted out,15.0,False,False,False,Levu
+35.0,US0503,Roark,5th voted out,14.0,False,False,False,Soko
+35.0,US0504,Ali,6th voted out,13.0,False,False,False,Yawa
+35.0,US0505,Jessica,7th voted out,12.0,False,False,False,Soko
+35.0,US0506,Desi,8th voted out,11.0,True,False,False,Soko
+35.0,US0507,Cole,9th voted out,10.0,True,False,False,Soko
+35.0,US0508,JP,10th voted out,9.0,True,False,False,Levu
+35.0,US0509,Joe,11th voted out,8.0,True,False,False,Soko
+35.0,US0510,Lauren,12th voted out,7.0,True,False,False,Yawa
+35.0,US0511,Ashley,13th voted out,6.0,True,False,False,Levu
+35.0,US0512,Mike,14th voted out,5.0,True,False,False,Soko
+35.0,US0513,Devon,Lost final 4 fire challenge,4.0,True,False,False,Yawa
+35.0,US0514,Ryan,2nd runner-up,3.0,False,True,False,Yawa
+35.0,US0515,Chrissy,Runner-up,2.0,False,True,False,Levu
+35.0,US0516,Ben,Sole Survivor,1.0,False,True,True,Levu
+36.0,US0517,Gonzalez,1st voted out,20.0,False,False,False,Malolo
+36.0,US0518,Jacob,2nd voted out,19.0,False,False,False,Malolo
+36.0,US0519,Morgan,3rd voted out,18.0,False,False,False,Naviti
+36.0,US0520,Brendan,4th voted out,17.0,False,False,False,Malolo
+36.0,US0521,Stephanie,5th voted out,16.0,False,False,False,Malolo
+36.0,US0522,James,6th voted out,15.0,False,False,False,Malolo
+36.0,US0523,Bradley,7th voted out,14.0,False,False,False,Naviti
+36.0,US0524,Chris,8th voted out,13.0,True,False,False,Naviti
+36.0,US0525,Libby,9th voted out,12.0,True,False,False,Malolo
+36.0,US0526,Desiree,10th voted out,11.0,True,False,False,Naviti
+36.0,US0527,Jenna,11th voted out,10.0,True,False,False,Malolo
+36.0,US0528,Michael,12th voted out,9.0,True,False,False,Malolo
+36.0,US0529,Chelsea,13th voted out,8.0,True,False,False,Naviti
+36.0,US0530,Kellyn,14th voted out,7.0,True,False,False,Naviti
+36.0,US0531,Sebastian,15th voted out,6.0,True,False,False,Naviti
+36.0,US0532,Donathan,16th voted out,5.0,True,False,False,Malolo
+36.0,US0533,Angela,Lost final 4 fire challenge,4.0,True,False,False,Naviti
+36.0,US0534,Laurel,2nd runner-up,3.0,True,True,False,Malolo
+36.0,US0535,Domenick,Runner-up,2.0,False,True,False,Naviti
+36.0,US0536,Wendell,Sole Survivor,1.0,False,True,True,Naviti
+37.0,US0537,Pat,Medically evacuated,20.0,False,False,False,David
+37.0,US0538,Jessica,1st voted out,19.0,False,False,False,David
+37.0,US0539,Jeremy,2nd voted out,18.0,False,False,False,Goliath
+37.0,US0540,Bi,Quit,17.0,False,False,False,David
+37.0,US0541,Natalia,3rd voted out,16.0,False,False,False,Goliath
+37.0,US0542,Natalie,4th voted out,15.0,False,False,False,Goliath
+37.0,US0543,Lyrsa,5th voted out,14.0,False,False,False,David
+37.0,US0544,Elizabeth,6th voted out,13.0,True,False,False,David
+37.0,US0545,John,7th voted out,12.0,True,False,False,Goliath
+37.0,US0546,Dan,8th voted out,11.0,True,False,False,Goliath
+37.0,US0547,Alec,9th voted out,10.0,True,False,False,Goliath
+37.0,US0548,Carl,10th voted out,9.0,True,False,False,David
+37.0,US0549,Gabby,11th voted out,8.0,True,False,False,David
+37.0,US0550,Christian,12th voted out,7.0,True,False,False,David
+37.0,US0551,Davie,13th voted out,6.0,True,False,False,David
+37.0,US0552,Alison,14th voted out,5.0,True,False,False,Goliath
+37.0,US0553,Kara,Lost final 4 fire challenge,4.0,True,False,False,Goliath
+37.0,US0554,Angelina,2nd runner-up,3.0,False,True,False,Goliath
+37.0,US0555,Mike,Runner-up,2.0,False,True,False,Goliath
+37.0,US0556,Nick,Sole Survivor,1.0,False,True,True,David
+38.0,US0557,Reem,1st voted out,18.0,True,False,False,Manu
+38.0,US0558,Keith,2nd voted out; Quit EoE,17.0,False,False,False,Manu
+38.0,US0559,Chris,3rd voted out,,False,False,False,Manu
+38.0,US0560,Rick,4th voted out,,False,False,False,Manu
+38.0,US0477,Aubry,5th voted out,16.0,True,False,False,Kama
+38.0,US0561,Wendy,6th voted out; Quit EoE,15.0,False,False,False,Manu
+38.0,US0451,Joe,7th voted out,14.0,True,False,False,Kama
+38.0,US0562,Eric,8th voted out,13.0,True,False,False,Kama
+38.0,US0563,Julia,9th voted out,12.0,True,False,False,Kama
+38.0,US0495,David,10th voted out,11.0,True,False,False,Manu
+38.0,US0429,Kelley,11th voted out,10.0,True,False,False,Manu
+38.0,US0564,Wardog,12th voted out,9.0,True,False,False,Manu
+38.0,US0565,Ron,13th voted out,8.0,True,False,False,Kama
+38.0,US0566,Aurora,14th voted out,7.0,True,False,False,Kama
+38.0,US0567,Victoria,15th voted out,6.0,True,False,False,Kama
+38.0,US0568,Lauren,16th voted out,5.0,True,False,False,Manu
+38.0,US0569,Julie,2nd runner-up,3.0,False,True,False,Kama
+38.0,US0570,Gavin,Runner-up,2.0,False,True,False,Kama
+39.0,US0571,Ronnie,1st voted out,20.0,False,False,False,Lairo
+39.0,US0572,Molly,2nd voted out,19.0,False,False,False,Vokai
+39.0,US0573,Vince,3rd voted out,18.0,False,False,False,Lairo
+39.0,US0574,Chelsea,4th voted out,17.0,False,False,False,Lairo
+39.0,US0575,Tom,5th voted out,16.0,False,False,False,Lairo
+39.0,US0576,Jason,6th voted out,15.0,False,False,False,Vokai
+39.0,US0577,Jack,7th voted out,14.0,True,False,False,Vokai
+39.0,US0578,Kellee,8th voted out,13.0,True,False,False,Vokai
+39.0,US0579,Jamal,9th voted out,12.0,True,False,False,Vokai
+39.0,US0580,Aaron,10th voted out,11.0,True,False,False,Lairo
+39.0,US0581,Missy,11th voted out,10.0,True,False,False,Lairo
+39.0,US0582,Elizabeth,12th voted out,9.0,True,False,False,Lairo
+39.0,US0583,Karishma,13th voted out,8.0,True,False,False,Lairo
+39.0,US0584,Elaine,14th voted out,7.0,True,False,False,Lairo
+39.0,US0585,Dan,Ejected,6.0,False,False,False,Vokai
+39.0,US0586,Janet,15th voted out,5.0,True,False,False,Vokai
+39.0,US0587,Lauren,Lost final 4 fire challenge,4.0,True,False,False,Vokai
+39.0,US0588,Noura,2nd runner-up,3.0,False,True,False,Vokai
+39.0,US0589,Dean,Runner-up,2.0,False,True,False,Lairo
+39.0,US0590,Tommy,Sole Survivor,1.0,False,True,True,Vokai
+40.0,US0442,Natalie,1st voted out,,False,False,False,Sele
+40.0,US0027,Amber,2nd voted out,20.0,True,False,False,Dakal
+40.0,US0166,Danni,3rd voted out,19.0,True,False,False,Sele
+40.0,US0048,Ethan,4th voted out,18.0,True,False,False,Sele
+40.0,US0274,Tyson,5th voted out,,False,False,False,Dakal
+40.0,US0055,Boston Rob,6th voted out,17.0,True,False,False,Sele
+40.0,US0197,Parvati,7th voted out,16.0,True,False,False,Sele
+40.0,US0112,Sandra,8th voted out; Quit EoE,15.0,False,False,False,Dakal
+40.0,US0202,Yul,9th voted out,14.0,True,False,False,Dakal
+40.0,US0536,Wendell,10th voted out,13.0,True,False,False,Dakal
+40.0,US0498,Adam,11th voted out,12.0,True,False,False,Sele
+40.0,US0353,Sophie,13th voted out,10.0,True,False,False,Dakal
+40.0,US0371,Kim,14th voted out,9.0,True,False,False,Dakal
+40.0,US0433,Jeremy,15th voted out,8.0,True,False,False,Sele
+40.0,US0556,Nick,16th voted out,7.0,True,False,False,Dakal
+40.0,US0386,Denise,17th voted out,6.0,True,False,False,Sele
+40.0,US0516,Ben,18th voted out,5.0,True,False,False,Sele
+40.0,US0414,Sarah,Lost final 4 fire challenge,4.0,True,False,False,Dakal
+40.0,US0478,Michele,2nd runner-up,3.0,False,True,False,Sele
+40.0,US0424,Tony,Sole Survivor,1.0,False,True,True,Dakal
+41.0,US0591,Abraham,1st voted out,18.0,False,False,False,Yase
+41.0,US0592,Sara,2nd voted out,17.0,False,False,False,Ua
+41.0,US0607,Voce,3rd voted out,16.0,False,False,False,Yase
+41.0,US0602,Brad,4th voted out,15.0,False,False,False,Ua
+41.0,US0603,JD,5th voted out,14.0,False,False,False,Ua
+41.0,US0595,Genie,6th voted out,13.0,False,False,False,Ua
+41.0,US0605,Sydney,7th voted out,12.0,False,False,False,Luvu
+41.0,US0604,Tiffany,8th voted out,11.0,True,False,False,Yase
+41.0,US0600,Naseer,9th voted out,10.0,True,False,False,Luvu
+41.0,US0598,Evvie,10th voted out,9.0,True,False,False,Yase
+41.0,US0606,Shan,11th voted out,8.0,True,False,False,Ua
+41.0,US0608,Liana,12th voted out,7.0,True,False,False,Yase
+41.0,US0599,Danny,13th voted out,6.0,True,False,False,Luvu
+41.0,US0596,Ricard,14th voted out,5.0,True,False,False,Ua
+41.0,US0593,Heather,Lost final 4 fire challenge,4.0,True,False,False,Luvu
+41.0,US0597,Xander,2nd runner-up,3.0,False,True,False,Yase
+41.0,US0601,Deshawn,Runner-up,2.0,False,True,False,Luvu
+41.0,US0594,Erika,Sole Survivor,1.0,False,True,True,Luvu
+42.0,US0613,Jackson,Medically evacuated,18.0,False,False,False,Taku
+42.0,US0626,Zach,1st voted out,17.0,False,False,False,Ika
+42.0,US0618,Marya,2nd voted out,16.0,False,False,False,Taku
+42.0,US0614,Jenny,3rd voted out,15.0,False,False,False,Vati
+42.0,US0624,Swati,4th voted out,14.0,False,False,False,Ika
+42.0,US0610,Daniel,5th voted out,13.0,False,False,False,Vati
+42.0,US0617,Lydia,6th voted out,12.0,False,False,False,Vati
+42.0,US0609,Chanelle,7th voted out,11.0,True,False,False,Vati
+42.0,US0622,Rocksroy,8th voted out,10.0,True,False,False,Ika
+42.0,US0625,Tori,9th voted out,9.0,True,False,False,Ika
+42.0,US0612,Hai,10th voted out,8.0,True,False,False,Vati
+42.0,US0611,Drea,11th voted out,7.0,True,False,False,Ika
+42.0,US0621,Omar,12th voted out,6.0,True,False,False,Taku
+42.0,US0616,Lindsay,13th voted out,5.0,True,False,False,Taku
+42.0,US0615,Jonathan,Lost final 4 fire challenge,4.0,True,False,False,Taku
+42.0,US0623,Romeo,2nd runner-up,3.0,False,True,False,Ika
+42.0,US0620,Mike,Runner-up,2.0,False,True,False,Vati
+42.0,US0619,Maryanne,Sole Survivor,1.0,False,True,True,Taku
+43.0,US0639,Morriah,1st voted out,18.0,False,False,False,Baka
+43.0,US0635,Justine,2nd voted out,17.0,False,False,False,Vesi
+43.0,US0640,Nneka,3rd voted out,16.0,False,False,False,Vesi
+43.0,US0637,Lindsay,4th voted out,15.0,False,False,False,Coco
+43.0,US0631,Geo,5th voted out,14.0,False,False,False,Coco
+43.0,US0630,Elie,6th voted out,13.0,False,False,False,Baka
+43.0,US0629,Dwight,7th voted out,12.0,False,False,False,Vesi
+43.0,US0633,Jeanine,8th voted out,11.0,True,False,False,Baka
+43.0,US0632,James,9th voted out,10.0,True,False,False,Coco
+43.0,US0643,Ryan,10th voted out,9.0,True,False,False,Coco
+43.0,US0641,Noelle,11th voted out,8.0,True,False,False,Vesi
+43.0,US0644,Sami,12th voted out,7.0,True,False,False,Baka
+43.0,US0628,Cody,13th voted out,6.0,True,False,False,Vesi
+43.0,US0636,Karla,14th voted out,5.0,True,False,False,Coco
+43.0,US0634,Jesse,Lost final 4 fire challenge,4.0,True,False,False,Vesi
+43.0,US0642,Owen,2nd runner-up,3.0,False,True,False,Baka
+43.0,US0627,Cassidy,Runner-up,2.0,False,True,False,Coco
+43.0,US0638,Gabler,Sole Survivor,1.0,False,True,True,Baka
+44.0,US0657,Bruce,Medically evacuated,18.0,False,False,False,Tika
+44.0,US0649,Maddy,1st voted out,17.0,False,False,False,Ratu
+44.0,US0660,Helen,2nd voted out,16.0,False,False,False,Tika
+44.0,US0651,Claire,3rd voted out,15.0,False,False,False,Soka
+44.0,US0661,Sarah,4th voted out,14.0,False,False,False,Tika
+44.0,US0650,Matthew,Medically evacuated,13.0,False,False,False,Ratu
+44.0,US0655,Josh,5th voted out,12.0,False,False,False,Soka
+44.0,US0656,Matt,6th voted out,11.0,True,False,False,Soka
+44.0,US0645,Brandon,7th voted out,10.0,True,False,False,Ratu
+44.0,US0647,Kane,8th voted out,9.0,True,False,False,Ratu
+44.0,US0653,Frannie,9th voted out,8.0,True,False,False,Soka
+44.0,US0652,Danny,10th voted out,7.0,True,False,False,Soka
+44.0,US0646,Jaime,11th voted out,6.0,True,False,False,Ratu
+44.0,US0648,Lauren,12th voted out,5.0,True,False,False,Ratu
+44.0,US0659,Carson,Lost final 4 fire challenge,4.0,True,False,False,Tika
+44.0,US0658,Carolyn,2nd runner-up,3.0,False,True,False,Tika
+44.0,US0654,Heidi,Runner-up,2.0,False,True,False,Soka
+44.0,US0662,Yam Yam,Sole Survivor,1.0,False,True,True,Tika
+45.0,US0669,Hannah,Quit,18.0,False,False,False,Lulu
+45.0,US0665,Brandon,1st voted out,17.0,False,False,False,Lulu
+45.0,US0677,Sabiyah,2nd voted out,16.0,False,False,False,Lulu
+45.0,US0678,Sean,3rd voted out; Quit,15.0,False,False,False,Lulu
+45.0,US0664,Brando,4th voted out,14.0,False,False,False,Belo
+45.0,US0670,J. Maya,5th voted out,13.0,False,False,False,Reba
+45.0,US0679,Sifu,6th voted out,12.0,False,False,False,Reba
+45.0,US0673,Kaleb,7th voted out,11.0,True,False,False,Lulu
+45.0,US0675,Kellie,8th voted out,10.0,True,False,False,Belo
+45.0,US0676,Kendra,9th voted out,9.0,True,False,False,Belo
+45.0,US0657,Bruce,10th voted out,8.0,True,False,False,Belo
+45.0,US0668,Emily,11th voted out,7.0,True,False,False,Lulu
+45.0,US0667,Drew,12th voted out,6.0,True,False,False,Reba
+45.0,US0672,Julie,13th voted out,5.0,True,False,False,Reba
+45.0,US0674,Katurah,Lost final 4 fire challenge,4.0,True,False,False,Belo
+45.0,US0671,Jake,2nd runner-up,3.0,False,True,False,Belo
+45.0,US0663,Austin,Runner-up,2.0,False,True,False,Reba
+45.0,US0666,Dee,Sole Survivor,1.0,False,True,True,Reba
+46.0,US0683,Jelinsky,1st voted out,18.0,False,False,False,Yanu
+46.0,US0686,Jess,2nd voted out,17.0,False,False,False,Yanu
+46.0,US0692,Randen,Medically evacuated,16.0,False,False,False,Nami
+46.0,US0681,Bhanu,3rd voted out,15.0,False,False,False,Yanu
+46.0,US0685,Jem,4th voted out,14.0,False,False,False,Siga
+46.0,US0690,Moriah,5th voted out,13.0,False,False,False,Siga
+46.0,US0696,Tim,6th voted out,12.0,False,False,False,Siga
+46.0,US0693,Soda,7th voted out,11.0,True,False,False,Nami
+46.0,US0694,Tevin,8th voted out,10.0,True,False,False,Nami
+46.0,US0684,Hunter,9th voted out,9.0,True,False,False,Nami
+46.0,US0695,Tiffany,10th voted out,8.0,True,False,False,Yanu
+46.0,US0697,Venus,11th voted out,7.0,True,False,False,Nami
+46.0,US0691,Q,12th voted out,6.0,True,False,False,Yanu
+46.0,US0689,Maria,13th voted out,5.0,True,False,False,Siga
+46.0,US0688,Liz,Lost final 4 fire challenge,4.0,True,False,False,Nami
+46.0,US0680,Ben,2nd runner-up,3.0,False,True,False,Siga
+46.0,US0682,Charlie,Runner-up,2.0,False,True,False,Siga
+46.0,US0687,Kenzie,Sole Survivor,1.0,False,True,True,Yanu
+47.0,US0698,Andy,,18.0,False,,,Unknown
+47.0,US0699,Anika,,17.0,False,,,Unknown
+47.0,US0700,Aysha,,16.0,False,,,Unknown
+47.0,US0701,Caroline,,15.0,False,,,Unknown
+47.0,US0702,Gabe,,14.0,False,,,Unknown
+47.0,US0703,Genevieve,,13.0,False,,,Unknown
+47.0,US0704,Jon,,12.0,False,,,Unknown
+47.0,US0705,Kishan,,11.0,False,,,Unknown
+47.0,US0706,Kyle,,10.0,False,,,Unknown
+47.0,US0707,Rachel,,9.0,False,,,Unknown
+47.0,US0708,Rome,,8.0,False,,,Unknown
+47.0,US0709,Sam,,7.0,False,,,Unknown
+47.0,US0710,Sierra,,6.0,False,,,Unknown
+47.0,US0711,Sol,,5.0,False,,,Unknown
+47.0,US0712,Sue,,4.0,False,,,Unknown
+47.0,US0713,Teeny,,3.0,False,,,Unknown
+47.0,US0714,Tiyana,,2.0,False,,,Unknown
+47.0,US0715,TK,,1.0,False,,,Unknown
+1.0,AU0001,Des,1st voted out,24.0,False,False,False,Aganoa
+1.0,AU0002,Bianca,2nd voted out,23.0,False,False,False,Saanapu
+1.0,AU0003,Evan,3rd voted out,22.0,False,False,False,Aganoa
+1.0,AU0004,Peter,Quit,21.0,False,False,False,Saanapu
+1.0,AU0014,Nick,4th voted out,,False,False,False,Vavau
+1.0,AU0012,Conner,5th voted out,,False,False,False,Saanapu
+1.0,AU0005,Barry,6th voted out,20.0,False,False,False,Vavau
+1.0,AU0006,Tegan,7th voted out,19.0,False,False,False,Vavau
+1.0,AU0007,Rohan,8th voted out,18.0,False,False,False,Aganoa
+1.0,AU0008,Kat,9th voted out,17.0,False,False,False,Aganoa
+1.0,AU0009,Andrew,10th voted out,16.0,False,False,False,Vavau
+1.0,AU0010,Craig,11th voted out,15.0,False,False,False,Vavau
+1.0,AU0011,Phoebe,12th voted out,14.0,False,False,False,Aganoa
+1.0,AU0013,Kate,14th voted out,12.0,False,False,False,Vavau
+1.0,AU0015,Kylie,16th voted out,10.0,True,False,False,Saanapu
+1.0,AU0016,Sue,17th voted out,9.0,True,False,False,Vavau
+1.0,AU0017,Jennah-Louise,18th voted out,8.0,True,False,False,Vavau
+1.0,AU0018,Brooke,19th voted out,7.0,True,False,False,Saanapu
+1.0,AU0019,Sam,20th voted out,6.0,True,False,False,Saanapu
+1.0,AU0020,Matt,21st voted out,5.0,True,False,False,Saanapu
+1.0,AU0021,Flick,22nd voted out,4.0,True,False,False,Saanapu
+1.0,AU0022,El,23rd voted out,3.0,True,False,False,Aganoa
+1.0,AU0023,Lee,Runner-up,2.0,False,True,False,Aganoa
+1.0,AU0024,Kristie,Sole Survivor,1.0,False,True,True,Aganoa
+2.0,AU0025,Joan,1st voted out,24.0,False,False,False,Asaga
+2.0,AU0026,Adam,2nd voted out,23.0,False,False,False,Samatau
+2.0,AU0027,Kate,3rd voted out,22.0,False,False,False,Samatau
+2.0,AU0028,Tarzan,4th voted out,21.0,False,False,False,Samatau
+2.0,AU0029,Aimee,5th voted out,20.0,False,False,False,Samatau
+2.0,AU0030,Sam,6th voted out,19.0,False,False,False,Asaga
+2.0,AU0031,Mark,7th voted out,18.0,False,False,False,Asaga
+2.0,AU0047,Tara,8th voted out,,False,False,False,Samatau
+2.0,AU0038,Anneliese,9th voted out,,False,False,False,Samatau
+2.0,AU0032,Jacqui,10th voted out,17.0,False,False,False,Asaga
+2.0,AU0033,Kent,11th voted out,16.0,False,False,False,Asaga
+2.0,AU0034,AK,12th voted out,15.0,False,False,False,Samatau
+2.0,AU0035,Ben,13th voted out,14.0,False,False,False,Asaga
+2.0,AU0036,Odette,14th voted out,13.0,False,False,False,Asaga
+2.0,AU0037,Jarrad,15th voted out,12.0,True,False,False,Samatau
+2.0,AU0039,Henry,17th voted out,10.0,True,False,False,Asaga
+2.0,AU0040,Tessa,18th voted out,9.0,False,False,False,Samatau
+2.0,AU0041,Sarah,19th voted out,8.0,True,False,False,Asaga
+2.0,AU0042,Luke,20th voted out,7.0,True,False,False,Asaga
+2.0,AU0043,Ziggy,21st voted out,6.0,True,False,False,Samatau
+2.0,AU0044,Locky,22nd voted out,5.0,True,False,False,Samatau
+2.0,AU0045,Michelle,23rd voted out,4.0,True,False,False,Asaga
+2.0,AU0046,Peter,24th voted out,3.0,True,False,False,Samatau
+2.0,AU0048,Jericho,Sole Survivor,1.0,False,True,True,Asaga
+3.0,AU0049,Matt,1st voted out,24.0,False,False,False,Contenders
+3.0,US0300,Russell,2nd voted out,23.0,False,False,False,Champions
+3.0,AU0050,Damien,3rd voted out,22.0,False,False,False,Champions
+3.0,AU0051,Steve K.,4th voted out,21.0,False,False,False,Contenders
+3.0,AU0052,Jenna,5th voted out,20.0,False,False,False,Contenders
+3.0,AU0053,Moana,6th voted out,19.0,False,False,False,Champions
+3.0,AU0054,Tegan,7th voted out,,False,False,False,Contenders
+3.0,AU0055,Anita,8th voted out,18.0,False,False,False,Contenders
+3.0,AU0056,Zach,9th voted out,17.0,False,False,False,Contenders
+3.0,AU0057,Paige,10th voted out,16.0,False,False,False,Contenders
+3.0,AU0058,Jackie,11th voted out,15.0,False,False,False,Champions
+3.0,AU0059,Heath,13th voted out,13.0,False,False,False,Contenders
+3.0,AU0060,Lydia,14th voted out,12.0,False,False,False,Champions
+3.0,AU0061,Robbie,15th voted out,11.0,True,False,False,Contenders
+3.0,AU0062,Samuel,16th voted out,10.0,True,False,False,Champions
+3.0,AU0063,Mat,17th voted out,9.0,True,False,False,Champions
+3.0,AU0064,Benji,18th voted out,8.0,True,False,False,Contenders
+3.0,AU0065,Steve W.,19th voted out,7.0,True,False,False,Champions
+3.0,AU0066,Fenella,20th voted out,6.0,True,False,False,Contenders
+3.0,AU0067,Monika,21st voted out,5.0,True,False,False,Champions
+3.0,AU0068,Shonee,22nd voted out,4.0,True,False,False,Contenders
+3.0,AU0069,Brian,23rd voted out,3.0,True,False,False,Champions
+3.0,AU0070,Sharn,Runner-up,2.0,False,True,False,Champions
+3.0,AU0071,Shane,Sole Survivor,1.0,False,True,True,Champions
+4.0,AU0072,Anastasia,1st voted out,24.0,False,False,False,Champions
+4.0,AU0073,Laura,2nd voted out,23.0,False,False,False,Contenders
+4.0,AU0074,Susie,3rd voted out,22.0,False,False,False,Champions
+4.0,AU0075,Nova,4th voted out,21.0,False,False,False,Champions
+4.0,AU0076,Steven,5th voted out,20.0,False,False,False,Champions
+4.0,AU0077,ET,6th voted out,19.0,False,False,False,Champions
+4.0,AU0078,Sam,7th voted out,18.0,False,False,False,Contenders
+4.0,AU0079,Sarah,8th voted out,17.0,False,False,False,Contenders
+4.0,AU0080,Hannah,9th voted out,16.0,False,False,False,Contenders
+4.0,AU0081,Casey,10th voted out,15.0,False,False,False,Contenders
+4.0,AU0082,Matt,11th voted out,14.0,False,False,False,Contenders
+4.0,AU0083,Ross,Evacuated,13.0,False,False,False,Champions
+4.0,AU0084,Andy,12th voted out,12.0,False,False,False,Contenders
+4.0,AU0085,Shaun,13th voted out,11.0,True,False,False,Contenders
+4.0,AU0086,David,14th voted out,10.0,True,False,False,Champions
+4.0,AU0087,John,15th voted out,9.0,True,False,False,Contenders
+4.0,AU0088,Daisy,16th voted out,8.0,True,False,False,Contenders
+4.0,AU0089,Simon,17th voted out,,False,False,False,Champions
+4.0,AU0090,Janine,19th voted out,6.0,True,False,False,Champions
+4.0,AU0091,Abbey,20th voted out,5.0,True,False,False,Champions
+4.0,AU0042,Luke,21st voted out,4.0,True,False,False,Champions
+4.0,AU0092,Harry,22nd voted out,3.0,True,False,False,Contenders
+4.0,AU0093,Baden,Runner-up,2.0,False,True,False,Contenders
+4.0,AU0094,Pia,Sole Survivor,1.0,False,True,True,Champions
+5.0,AU0071,Shane,1st voted out,24.0,False,False,False,Mokuta
+5.0,AU0048,Jericho,2nd voted out,23.0,False,False,False,Vakama
+5.0,AU0088,Daisy,3rd voted out,22.0,False,False,False,Vakama
+5.0,AU0045,Michelle,4th voted out,21.0,False,False,False,Mokuta
+5.0,AU0039,Henry,5th voted out,20.0,False,False,False,Mokuta
+5.0,AU0091,Abbey,6th voted out,19.0,False,False,False,Mokuta
+5.0,AU0060,Lydia,7th voted out,18.0,False,False,False,Mokuta
+5.0,AU0087,John,9th voted out,17.0,False,False,False,Mokuta
+5.0,AU0063,Mat,10th voted out,16.0,False,False,False,Vakama
+5.0,AU0011,Phoebe,11th voted out,15.0,False,False,False,Vakama
+5.0,AU0021,Flick,12th voted out,14.0,False,False,False,Vakama
+5.0,AU0014,Nick,13th voted out,13.0,False,False,False,Mokuta
+5.0,AU0044,Locky,14th voted out,12.0,True,False,False,Vakama
+5.0,AU0092,Harry,15th voted out,11.0,True,False,False,Mokuta
+5.0,AU0023,Lee,Medically evacuated,10.0,False,False,False,Mokuta
+5.0,AU0056,Zach,16th voted out,9.0,True,False,False,Mokuta
+5.0,AU0032,Jacqui,17th voted out,8.0,True,False,False,Vakama
+5.0,AU0068,Shonee,18th voted out,7.0,True,False,False,Mokuta
+5.0,AU0034,AK,Eliminated,6.0,True,False,False,Vakama
+5.0,AU0028,Tarzan,19th voted out,5.0,True,False,False,Vakama
+5.0,AU0018,Brooke,20th voted out,4.0,True,False,False,Vakama
+5.0,AU0053,Moana,21st voted out,3.0,True,False,False,Vakama
+5.0,AU0070,Sharn,Runner-up,2.0,False,True,False,Mokuta
+5.0,AU0086,David,Sole Survivor,1.0,False,True,True,Vakama
+6.0,AU0096,Phil,1st voted out,24.0,False,False,False,Brains
+6.0,AU0097,Janelle,2nd voted out,23.0,False,False,False,Brawn
+6.0,AU0098,Gavin,3rd voted out,22.0,False,False,False,Brawn
+6.0,AU0099,Benny,4th voted out,21.0,False,False,False,Brawn
+6.0,AU0100,Mitch,5th voted out,20.0,False,False,False,Brains
+6.0,AU0116,Cara,6th voted out,,False,False,False,Brains
+6.0,AU0101,Joey,7th voted out,19.0,False,False,False,Brains
+6.0,AU0102,Daini,8th voted out,18.0,False,False,False,Brawn
+6.0,AU0103,Shannon,9th voted out,17.0,False,False,False,Brawn
+6.0,AU0104,Georgia,10th voted out,16.0,False,False,False,Brains
+6.0,AU0105,Rachel,11th voted out,15.0,False,False,False,Brains
+6.0,AU0106,Simon,12th voted out,14.0,False,False,False,Brawn
+6.0,AU0107,Kez,13th voted out,13.0,False,False,False,Brawn
+6.0,AU0109,Baden,14th voted out,12.0,True,False,False,Brains
+6.0,AU0108,Chelsea,Medically evacuated,11.0,False,False,False,Brawn
+6.0,AU0119,Hayley,15th voted out,,False,False,False,Brains
+6.0,AU0110,Gerald,16th voted out,10.0,True,False,False,Brawn
+6.0,AU0111,Laura,17th voted out,9.0,True,False,False,Brains
+6.0,AU0112,Emmett,18th voted out,8.0,True,False,False,Brawn
+6.0,AU0113,Andrew,19th voted out,7.0,True,False,False,Brains
+6.0,AU0117,Flick,20th voted out,,False,False,False,Brawn
+6.0,AU0114,Dani,21st voted out,6.0,True,False,False,Brawn
+6.0,AU0115,Wai,22nd voted out,5.0,True,False,False,Brains
+6.0,AU0118,George,Runner-up,2.0,False,True,False,Brains
+7.0,AU0084,Andy,1st voted out,24.0,False,False,False,Water
+7.0,AU0131,Briana,2nd voted out,23.0,False,False,False,Water
+7.0,AU0127,Kate,3rd voted out,22.0,False,False,False,Blood
+7.0,AU0129,Sophie,4th voted out,,False,False,False,Blood
+7.0,AU0130,Alex,Quit,21.0,False,False,False,Water
+7.0,AU0124,Jay,5th voted out,20.0,False,False,False,Blood
+7.0,AU0120,Amy,8th voted out,17.0,False,False,False,Blood
+7.0,AU0138,Nina,Medically evacuated,16.0,False,False,False,Water
+7.0,AU0122,Croc,9th voted out,15.0,False,False,False,Blood
+7.0,AU0121,Ben,10th voted out,14.0,False,False,False,Blood
+7.0,AU0135,Khanh,11th voted out,13.0,True,False,False,Water
+7.0,AU0137,Mel,12th voted out,12.0,True,False,False,Water
+7.0,AU0125,Jesse,13th voted out,11.0,True,False,False,Blood
+7.0,AU0139,Shay,14th voted out,,False,False,False,Water
+7.0,AU0133,Jordie,15th voted out,,False,False,False,Water
+7.0,AU0136,KJ,16th voted out,,False,False,False,Water
+7.0,AU0128,Michelle,17th voted out,10.0,True,False,False,Blood
+7.0,AU0126,Jordan,18th voted out,9.0,True,False,False,Blood
+7.0,AU0030,Sam,19th voted out,8.0,True,False,False,Blood
+7.0,AU0123,David,20th voted out,7.0,True,False,False,Blood
+7.0,AU0134,Josh,23rd voted out,4.0,True,False,False,Water
+7.0,AU0132,Chrissy,2nd runner-up,2.0,False,True,False,Water
+7.0,AU0031,Mark,Sole Survivor,1.0,False,True,True,Water
+8.0,AU0058,Jackie,Medically evacuated,24.0,False,False,False,Villains
+8.0,AU0140,Anjali,1st voted out,23.0,False,False,False,Villains
+8.0,AU0147,Michael,2nd voted out,22.0,False,False,False,Villains
+8.0,AU0148,Mimi,3rd voted out,21.0,False,False,False,Villains
+8.0,AU0150,Rogue,4th voted out,20.0,False,False,False,Heroes
+8.0,AU0151,Sarah,5th voted out,19.0,False,False,False,Villains
+8.0,AU0143,Fraser,6th voted out,18.0,False,False,False,Villains
+8.0,AU0152,Sharni,7th voted out,17.0,False,False,False,Heroes
+8.0,AU0149,Paige,8th voted out,16.0,False,False,False,Heroes
+8.0,AU0133,Jordie,9th voted out,15.0,False,False,False,Villains
+8.0,AU0141,Ben,10th voted out,14.0,False,False,False,Heroes
+8.0,AU0051,Stevie,11th voted out,13.0,False,False,False,Villains
+8.0,AU0142,David,12th voted out,12.0,False,False,False,Heroes
+8.0,AU0117,Flick,13th voted out,11.0,True,False,False,Heroes
+8.0,AU0019,Sam,14th voted out,10.0,True,False,False,Heroes
+8.0,AU0068,Shonee,15th voted out,9.0,False,False,False,Villains
+8.0,AU0085,Shaun,16th voted out,8.0,True,False,False,Heroes
+8.0,AU0119,Hayley,17th voted out,7.0,True,False,False,Heroes
+8.0,AU0138,Nina,18th voted out,,False,False,False,Heroes
+8.0,AU0106,Simon,19th voted out,6.0,True,False,False,Villains
+8.0,AU0118,George,21st voted out,4.0,True,False,False,Villains
+8.0,AU0144,Gerry,Runner-up,3.0,False,True,False,Heroes
+8.0,AU0146,Matt,Runner-up,2.0,False,True,False,Heroes
+8.0,AU0145,Liz,Sole Survivor,1.0,False,True,True,Villains
+9.0,AU0159,Frankie,1st voted out,24.0,False,False,False,Titans
+9.0,AU0162,Jessica,2nd voted out,23.0,False,False,False,Titans
+9.0,AU0168,Peta,3rd voted out,22.0,False,False,False,Rebels
+9.0,AU0173,Tobias,4th voted out,21.0,False,False,False,Rebels
+9.0,AU0167,Nathan,5th voted out,20.0,False,False,False,Titans
+9.0,AU0175,Viola,6th voted out,19.0,False,False,False,Titans
+9.0,AU0171,Sarah,7th voted out,18.0,False,False,False,Rebels
+9.0,AU0160,Garrick,8th voted out,17.0,False,False,False,Rebels
+9.0,AU0156,Charles,9th voted out,16.0,False,False,False,Titans
+9.0,AU0163,Kelli,10th voted out,15.0,False,False,False,Rebels
+9.0,AU0172,Scott,Quit,14.0,False,False,False,Rebels
+9.0,AU0176,Winna,11th voted out,13.0,False,False,False,Titans
+9.0,AU0157,Eden,12th voted out,12.0,False,False,False,Titans
+9.0,AU0153,Aileen,13th voted out,11.0,True,False,False,Rebels
+9.0,AU0161,Jaden,14th voted out,10.0,True,False,False,Titans
+9.0,AU0174,Valeria,15th voted out,9.0,True,False,False,Titans
+9.0,AU0154,Alex,16th voted out,8.0,True,False,False,Rebels
+9.0,AU0170,Rianna,17th voted out,7.0,True,False,False,Rebels
+9.0,AU0165,Kitty,18th voted out,6.0,True,False,False,Titans
+9.0,AU0164,Kirby,19th voted out,5.0,True,False,False,Rebels
+9.0,AU0169,Raymond,20th voted out,4.0,True,False,False,Rebels
+9.0,AU0166,Mark,21st voted out,3.0,True,False,False,Titans
+9.0,AU0155,Caroline,Runner-up,2.0,False,True,False,Titans
+9.0,AU0158,Feras,Sole Survivor,1.0,False,True,True,Rebels
+1.0,SA0001,Don,1st voted out,14.0,False,False,False,Rana
+1.0,SA0002,Sam,2nd voted out,13.0,False,False,False,Aguila
+1.0,SA0003,Jude,Quit,12.0,False,False,False,Aguila
+1.0,SA0004,Ncumisa,3rd voted out,11.0,False,False,False,Rana
+1.0,SA0005,Sanele,Medically evacuated,10.0,False,False,False,Aguila
+1.0,SA0006,Danielle,4th voted out,9.0,False,False,False,Rana
+1.0,SA0007,Nico,5th voted out,8.0,False,False,False,Aguila
+1.0,SA0008,Brigitte,6th voted out,7.0,True,False,False,Aguila
+1.0,SA0009,Mzi,7th voted out,,False,False,False,Aguila
+1.0,SA0010,Vanessa,8th voted out,,False,False,False,Aguila
+1.0,SA0011,Lezel,9th voted out,6.0,True,False,False,Rana
+1.0,SA0012,Gareth,10th voted out,5.0,True,False,False,Rana
+1.0,SA0013,Zayn,Eliminated,4.0,True,False,False,Rana
+1.0,SA0014,Jacinda,Runner-up,2.0,False,True,False,Rana
+2.0,SA0015,Nomfundo,1st voted out,16.0,False,False,False,Iban
+2.0,SA0016,Nicola,2nd voted out,15.0,False,False,False,Bajau
+2.0,SA0017,Viwe,3rd voted out,14.0,False,False,False,Iban
+2.0,SA0018,Elise,4th voted out,13.0,False,False,False,Bajau
+2.0,SA0019,Nichal,5th voted out,12.0,False,False,False,Bajau
+2.0,SA0020,Rijesh,6th voted out,11.0,False,False,False,Bajau
+2.0,SA0021,Lisa,7th voted out,10.0,False,False,False,Iban
+2.0,SA0022,Irshaad,8th voted out,9.0,False,False,False,Iban
+2.0,SA0023,Hein,9th voted out,8.0,False,False,False,Bajau
+2.0,SA0024,Dyke,10th voted out,7.0,True,False,False,Bajau
+2.0,SA0025,Angela,11th voted out,6.0,True,False,False,Bajau
+2.0,SA0026,Angie,12th voted out,5.0,True,False,False,Iban
+2.0,SA0027,Mandla,Eliminated,4.0,True,False,False,Iban
+2.0,SA0028,Amanda,13th voted out,3.0,True,False,False,Bajau
+2.0,SA0029,Grant,Runner-up,2.0,False,True,False,Iban
+2.0,SA0030,Lorette,Sole Survivor,1.0,False,True,True,Iban
+3.0,SA0031,Christina,Quit,18.0,False,False,False,Chibudu
+3.0,SA0032,Garth,1st voted out,17.0,False,False,False,Chibudu
+3.0,SA0033,Jub Jub,Quit,16.0,False,False,False,Chibudu
+3.0,SA0034,Cindy,2nd voted out,15.0,False,False,False,Timbila
+3.0,SA0035,Craig,3rd voted out,14.0,False,False,False,Chibudu
+3.0,SA0036,Lady Lea,4th voted out,13.0,False,False,False,Timbila
+3.0,SA0037,Darren,5th voted out,12.0,False,False,False,Timbila
+3.0,SA0038,Sandi,6th voted out,11.0,False,False,False,Timbila
+3.0,SA0039,Hanna,7th voted out,10.0,True,False,False,Chibudu
+3.0,SA0040,Louw,8th voted out,9.0,True,False,False,Timbila
+3.0,SA0041,Okkert,9th voted out,8.0,True,False,False,Chibudu
+3.0,SA0042,Gys,10th voted out,7.0,True,False,False,Chibudu
+3.0,SA0043,Izak,11th voted out,6.0,True,False,False,Timbila
+3.0,SA0044,Kaseran,12th voted out,5.0,True,False,False,Timbila
+3.0,SA0045,Sade,13th voted out,4.0,True,False,False,Chibudu
+3.0,SA0046,ProVerb,14th voted out,3.0,True,False,False,Timbila
+3.0,SA0047,Ashley,Runner-up,2.0,False,True,False,Timbila
+3.0,SA0048,GiGi,Sole Survivor,1.0,False,True,True,Chibudu
+4.0,SA0049,Lukhanyo,1st voted out,19.0,False,False,False,Goma
+4.0,SA0050,Philicity,2nd voted out,18.0,False,False,False,Goma
+4.0,SA0051,Tshepo,3rd voted out,17.0,False,False,False,Raituhn
+4.0,SA0052,Tasleem,4th voted out,16.0,False,False,False,Raituhn
+4.0,SA0053,Carmel,5th voted out,15.0,False,False,False,Raituhn
+4.0,SA0054,Jacques,Quit,14.0,False,False,False,Goma
+4.0,SA0055,Sindi,6th voted out,13.0,False,False,False,Goma
+4.0,SA0056,Vanessa,Medically evacuated,12.0,True,False,False,Goma
+4.0,SA0057,Roxy,7th voted out,11.0,True,False,False,Goma
+4.0,SA0058,Harry,8th voted out,10.0,True,False,False,Raituhn
+4.0,SA0059,Simon,9th voted out,9.0,True,False,False,Goma
+4.0,SA0060,Malusi,10th voted out,8.0,True,False,False,Raituhn
+4.0,SA0061,Tejan,11th voted out,7.0,True,False,False,Raituhn
+4.0,SA0062,Sean,12th voted out,6.0,True,False,False,Goma
+4.0,SA0063,Alison,13th voted out,5.0,True,False,False,Goma
+4.0,SA0064,Mxo,14th voted out,4.0,True,False,False,Goma
+4.0,SA0065,Bonnie,15th voted out,3.0,True,False,False,Raituhn
+4.0,SA0066,Letshego,Runner-up,2.0,False,True,False,Raituhn
+4.0,SA0067,Hykie,Sole Survivor,1.0,False,True,True,Raituhn
+5.0,SA0068,Ashleigh,1st voted out,20.0,False,False,False,Selatan
+5.0,SA0069,Marsha,2nd voted out,19.0,False,False,False,Selatan
+5.0,SA0070,Killarney,3rd voted out,18.0,False,False,False,Utara
+5.0,SA0071,Zan,4th voted out,17.0,False,False,False,Utara
+5.0,SA0072,Shona,5th voted out,16.0,False,False,False,Selatan
+5.0,SA0073,Phil,6th voted out,15.0,False,False,False,Selatan
+5.0,SA0074,Gena,7th voted out,14.0,False,False,False,Selatan
+5.0,SA0075,Sonette,8th voted out,13.0,False,False,False,Utara
+5.0,SA0076,Stephen,9th voted out,12.0,False,False,False,Utara
+5.0,SA0077,Marian,10th voted out,11.0,True,False,False,Utara
+5.0,SA0078,Solly,11th voted out,10.0,True,False,False,Utara
+5.0,SA0079,Moyra,12th voted out,9.0,True,False,False,Selatan
+5.0,SA0080,Vel,13th voted out,8.0,True,False,False,Utara
+5.0,SA0081,Shane,14th voted out,7.0,True,False,False,Utara
+5.0,SA0082,Altaaf,15th voted out,6.0,True,False,False,Selatan
+5.0,SA0083,Zavion,16th voted out,5.0,True,False,False,Selatan
+5.0,SA0084,David,17th voted out,4.0,True,False,False,Selatan
+5.0,SA0085,Sivu,2nd runner-up,3.0,False,True,False,Utara
+5.0,SA0086,Buhle,Runner-up,2.0,False,True,False,Utara
+5.0,SA0087,Graham,Sole Survivor,1.0,False,True,True,Selatan
+6.0,SA0088,Seamus,1st voted out,18.0,False,False,False,Luzon
+6.0,SA0089,Neil,Eliminated,17.0,False,False,False,Luzon
+6.0,SA0090,Stacey-Lee,2nd voted out,16.0,False,False,False,Mindanao
+6.0,SA0091,Ace,3rd voted out,15.0,False,False,False,Luzon
+6.0,SA0092,Murishca,4th voted out,14.0,False,False,False,Mindanao
+6.0,SA0093,Marthunis,Quit,13.0,False,False,False,Mindanao
+6.0,SA0094,Tevin,5th voted out,12.0,False,False,False,Mindanao
+6.0,SA0095,Josie,6th voted out,11.0,False,False,False,Luzon
+6.0,SA0096,Vusi,7th voted out,10.0,True,False,False,Luzon
+6.0,SA0097,Chane,8th voted out,9.0,True,False,False,Luzon
+6.0,SA0098,Palesa,9th voted out,8.0,True,False,False,Luzon
+6.0,SA0099,Toni,10th voted out,7.0,True,False,False,Mindanao
+6.0,SA0100,PK,11th voted out,6.0,True,False,False,Mindanao
+6.0,SA0101,Katinka,12th voted out,5.0,True,False,False,Mindanao
+6.0,SA0102,Werner,13th voted out,4.0,True,False,False,Mindanao
+6.0,SA0103,Annalize,14th voted out,3.0,True,False,False,Luzon
+6.0,SA0104,Jeanne,Runner-up,2.0,False,True,False,Mindanao
+6.0,SA0105,Tom,Sole Survivor,1.0,False,True,True,Luzon
+7.0,SA0106,Lee-Anne,1st voted out,21.0,False,False,False,Sa'ula
+7.0,SA0107,Paul,2nd voted out,20.0,False,False,False,Sa'ula
+7.0,SA0108,Ting Ting,3rd voted out,19.0,False,False,False,Ta'alo
+7.0,SA0109,Rose-Lee,4th voted out,18.0,False,False,False,Laumei
+7.0,SA0110,Felix,5th voted out,17.0,False,False,False,Ta'alo
+7.0,SA0111,Tania,6th voted out,16.0,False,False,False,Ta'alo
+7.0,SA0112,Rocco,7th voted out,15.0,False,False,False,Laumei
+7.0,SA0113,Nathan,8th voted out,14.0,False,False,False,Sa'ula
+7.0,SA0114,Meryl,9th voted out,13.0,True,False,False,Ta'alo
+7.0,SA0115,Geoffrey,10th voted out,12.0,True,False,False,Laumei
+7.0,SA0116,Seipei,11th voted out,11.0,True,False,False,Sa'ula
+7.0,SA0117,Dante,12th voted out,10.0,True,False,False,Ta'alo
+7.0,SA0118,Cobus,13th voted out,9.0,True,False,False,Ta'alo
+7.0,SA0119,Mmaba,14th voted out,8.0,True,False,False,Laumei
+7.0,SA0120,Jacques,15th voted out,7.0,True,False,False,Ta'alo
+7.0,SA0121,Mike,16th voted out,6.0,True,False,False,Laumei
+7.0,SA0122,Steffi,Eliminated,5.0,True,False,False,Sa'ula
+7.0,SA0123,Laetitia,17th voted out,4.0,True,False,False,Laumei
+7.0,SA0124,Durao,2nd runner-up,3.0,False,True,False,Laumei
+7.0,SA0125,Nicole,Runner-up,2.0,False,True,False,Sa'ula
+7.0,SA0126,Rob,Sole Survivor,1.0,False,True,True,Sa'ula
+8.0,SA0127,Jason,1st voted out,20.0,False,False,False,Zamba
+8.0,SA0128,Pinty,2nd voted out,19.0,False,False,False,Vuna
+8.0,SA0129,Mike,3rd voted out,18.0,False,False,False,Vuna
+8.0,SA0130,Paul,4th voted out,17.0,False,False,False,Vuna
+8.0,SA0131,Thoriso,5th voted out,16.0,False,False,False,Zamba
+8.0,SA0132,Carla,6th voted out,15.0,False,False,False,Vuna
+8.0,SA0133,Dino,7th voted out,14.0,False,False,False,Zamba
+8.0,SA0134,Qiean,8th voted out,13.0,False,False,False,Zamba
+8.0,SA0135,Marisha,9th voted out,12.0,True,False,False,Zamba
+8.0,SA0136,Shaun,10th voted out,11.0,True,False,False,Zamba
+8.0,SA0137,Renier,11th voted out,10.0,True,False,False,Zamba
+8.0,SA0138,Amy,Tied destiny,9.0,True,False,False,Zamba
+8.0,SA0139,Anesu,12th voted out,8.0,True,False,False,Vuna
+8.0,SA0140,Wardah,13th voted out,7.0,False,False,False,Vuna
+8.0,SA0141,Santoni,Eliminated,6.0,True,False,False,Vuna
+8.0,SA0142,Kiran,14th voted out,5.0,True,False,False,Vuna
+8.0,SA0143,Tyson,15th voted out,4.0,True,False,False,Vuna
+8.0,SA0144,Chappies,16th voted out,3.0,True,False,False,Vuna
+8.0,SA0145,Anela,Runner-up,2.0,False,True,False,Zamba
+8.0,SA0146,Nicole,Sole Survivor,1.0,False,True,True,Zamba
+9.0,SA0144,Chappies,1st voted out,20.0,False,False,False,Masu
+9.0,SA0100,PK,2nd voted out,19.0,False,False,False,Masu
+9.0,SA0111,Tania,3rd voted out,18.0,False,False,False,Yontau
+9.0,SA0094,Tevin,4th voted out,17.0,False,False,False,Yontau
+9.0,SA0088,Seamus,5th voted out,16.0,False,False,False,Yontau
+9.0,SA0072,Shona,6th voted out,15.0,False,False,False,Yontau
+9.0,SA0128,Pinty,7th voted out,14.0,False,False,False,Yontau
+9.0,SA0131,Thoriso,8th voted out,13.0,False,False,False,Yontau
+9.0,SA0098,Palesa,9th voted out,12.0,False,False,False,Masu
+9.0,SA0099,Toni,10th voted out,11.0,True,False,False,Masu
+9.0,SA0117,Dante,11th voted out,10.0,True,False,False,Masu
+9.0,SA0122,Steffi,12th voted out,9.0,True,False,False,Masu
+9.0,SA0114,Meryl,13th voted out,8.0,True,False,False,Masu
+9.0,SA0061,Tejan,14th voted out,7.0,True,False,False,Masu
+9.0,SA0110,Felix,15th voted out,6.0,True,False,False,Yontau
+9.0,SA0070,Killarney,16th voted out,5.0,True,False,False,Yontau
+9.0,SA0073,Phil,17th voted out,4.0,True,False,False,Yontau
+9.0,SA0077,Marian,18th voted out,3.0,True,False,False,Masu
+9.0,SA0081,Shane,Runner-up,2.0,False,True,False,Masu
+9.0,SA0133,Dino,Sole Survivor,1.0,False,True,True,Yontau
+1.0,UK0001,Nick,1st voted out,16.0,False,False,False,Ular
+1.0,UK0002,JJ,2nd voted out,15.0,False,False,False,Helang
+1.0,UK0003,Uzma,3rd voted out,14.0,False,False,False,Helang
+1.0,UK0004,Sarah,4th voted out,13.0,False,False,False,Ular
+1.0,UK0005,Jayne,5th voted out,12.0,False,False,False,Helang
+1.0,UK0006,Adrian,6th voted out,11.0,False,False,False,Helang
+1.0,UK0007,Simon,7th voted out,10.0,False,False,False,Helang
+1.0,UK0008,Andy,8th voted out,9.0,True,False,False,Helang
+1.0,UK0009,James,9th voted out,8.0,True,False,False,Helang
+1.0,UK0010,Pete,10th voted out,7.0,True,False,False,Ular
+1.0,UK0011,Zoe,11th voted out,6.0,True,False,False,Ular
+1.0,UK0012,Eve,12th voted out,5.0,True,False,False,Ular
+1.0,UK0013,Mick,13th voted out,4.0,True,False,False,Ular
+1.0,UK0014,Richard,14th voted out,3.0,True,False,False,Ular
+1.0,UK0015,Jackie,Runner-up,2.0,False,True,False,Ular
+1.0,UK0016,Charlotte,Sole Survivor,1.0,False,True,True,Helang
+2.0,UK0017,Sarah,1st voted out,12.0,False,False,False,South Island
+2.0,UK0018,Lee,2nd voted out,11.0,False,False,False,South Island
+2.0,UK0019,Tayfun,3rd voted out,10.0,False,False,False,North Island
+2.0,UK0020,Meeta,4th voted out,9.0,False,False,False,North Island
+2.0,UK0021,Helen,5th voted out,8.0,True,False,False,North Island
+2.0,UK0022,Alastair,6th voted out,7.0,True,False,False,North Island
+2.0,UK0023,Drew,7th voted out,6.0,True,False,False,North Island
+2.0,UK0024,Dave,8th voted out,5.0,True,False,False,North Island
+2.0,UK0025,Bridget,9th voted out,4.0,True,False,False,South Island
+2.0,UK0026,John,10th voted out,3.0,True,False,False,South Island
+2.0,UK0027,Susannah,Runner-up,2.0,False,True,False,South Island
+2.0,UK0028,Jonny,Sole Survivor,1.0,False,True,True,South Island
+3.0,UK0043,Richard,1st voted out,18.0,False,False,False,Caleton
+3.0,UK0044,Sabrina,2nd voted out,17.0,False,False,False,La Nena
+3.0,UK0040,Rach,3rd voted out,16.0,False,False,False,La Nena
+3.0,UK0041,Rachel,4th voted out,15.0,False,False,False,Caleton
+3.0,UK0042,Ren,5th voted out,14.0,False,False,False,La Nena
+3.0,UK0033,Jess,6th voted out,13.0,False,False,False,Caleton
+3.0,UK0045,Shai,7th voted out,12.0,False,False,False,Caleton
+3.0,UK0035,Lee,8th voted out,11.0,True,False,False,La Nena
+3.0,UK0029,Ashleigh,9th voted out,10.0,True,False,False,La Nena
+3.0,UK0031,Doug,10th voted out,9.0,True,False,False,La Nena
+3.0,UK0046,Tinuke,11th voted out,8.0,True,False,False,Caleton
+3.0,UK0034,Laurence,12th voted out,7.0,True,False,False,Caleton
+3.0,UK0038,Nathan,13th voted out,6.0,True,False,False,Caleton
+3.0,UK0039,Pegleg,14th voted out,5.0,True,False,False,La Nena
+3.0,UK0032,Hannah,15th voted out,4.0,True,False,False,La Nena
+3.0,UK0030,Christopher,Runner-up,3.0,False,True,False,La Nena
+3.0,UK0036,Leilani,Runner-up,2.0,False,True,False,Caleton
+3.0,UK0037,Matthew,Sole Survivor,1.0,False,True,True,Caleton
+1.0,NZ0001,Hannah,1st voted out,16.0,False,False,False,Mogoton
+1.0,NZ0002,Dee,2nd voted out,15.0,False,False,False,Hermosa
+1.0,NZ0003,Tony,3rd voted out,14.0,False,False,False,Mogoton
+1.0,NZ0004,Izzy,4th voted out,13.0,False,False,False,Mogoton
+1.0,NZ0005,Lou,Medically evacuated,12.0,False,False,False,Mogoton
+1.0,NZ0006,Georgia,5th voted out,11.0,False,False,False,Hermosa
+1.0,NZ0007,Shay,6th voted out,,False,False,False,Mogoton
+1.0,NZ0008,Lee,7th voted out,10.0,True,False,False,Hermosa
+1.0,NZ0009,Mike,8th voted out,,False,False,False,Hermosa
+1.0,NZ0010,Sala,9th voted out,9.0,True,False,False,Mogoton
+1.0,NZ0011,Jak,10th voted out,8.0,True,False,False,Hermosa
+1.0,NZ0012,Shannon,11th voted out,7.0,True,False,False,Hermosa
+1.0,NZ0013,Nate,13th voted out,,False,False,False,Hermosa
+1.0,NZ0014,Barb,2nd runner-up,3.0,False,True,False,Hermosa
+1.0,NZ0015,Tom,Runner-up,2.0,False,True,False,Mogoton
+1.0,NZ0016,Avi,Sole Survivor,1.0,False,True,True,Mogoton
+2.0,NZ0017,Jose,1st voted out,18.0,False,False,False,Chani
+2.0,NZ0018,Karla,2nd voted out,17.0,False,False,False,Chani
+2.0,NZ0019,Franky,3rd voted out,16.0,False,False,False,Chani
+2.0,NZ0020,Kaysha,4th voted out,15.0,False,False,False,Khangkhaw
+2.0,NZ0021,Liam,5th voted out,14.0,False,False,False,Chani
+2.0,NZ0022,Josh,6th voted out,13.0,False,False,False,Khangkhaw
+2.0,NZ0023,JT,Quit,12.0,False,False,False,Chani
+2.0,NZ0024,Dylan,7th voted out,11.0,False,False,False,Khangkhaw
+2.0,NZ0025,Arun,8th voted out,10.0,True,False,False,Chani
+2.0,NZ0026,Brad,9th voted out,9.0,True,False,False,Khangkhaw
+2.0,NZ0027,Renee,10th voted out,8.0,True,False,False,Chani
+2.0,NZ0028,Eve,11th voted out,7.0,True,False,False,Chani
+2.0,NZ0029,Matt,12th voted out,6.0,True,False,False,Khangkhaw
+2.0,NZ0030,Adam,13th voted out,5.0,True,False,False,Khangkhaw
+2.0,NZ0031,Tara,14th voted out,4.0,True,False,False,Khangkhaw
+2.0,NZ0032,Dave,2nd runner-up,3.0,False,True,False,Chani
+2.0,NZ0033,Tess,Runner-up,2.0,False,True,False,Khangkhaw
+2.0,NZ0034,Lisa,Sole Survivor,1.0,False,True,True,Khangkhaw
