@@ -1,8 +1,18 @@
 import pandas as pd
 from itertools import combinations
 
-def compute_affinity_scores(votes: pd.DataFrame, season: int, smoothing: float = 1.0) -> pd.DataFrame:
+def compute_affinity_scores(
+    votes: pd.DataFrame,
+    season: int,
+    up_to_episode: int = None,
+    smoothing: float = 1.0,
+) -> pd.DataFrame:
     season_votes = votes[votes["season"] == season]
+
+    # Only use votes through this episode, lets you see alliances at any point in the season
+    if up_to_episode is not None:
+        season_votes = season_votes[season_votes["episode"] <= up_to_episode]
+
     pair_stats = {}
 
     for sog_id, grp in season_votes.groupby("sog_id"):
@@ -29,5 +39,21 @@ def compute_affinity_scores(votes: pd.DataFrame, season: int, smoothing: float =
 
 if __name__ == "__main__":
     votes = pd.read_csv("data/clean_votes.csv")
-    scores = compute_affinity_scores(votes, season=40)
-    print(scores.sort_values("affinity", ascending=False).head(8).to_string(index=False))
+
+    # Adds names
+    names = votes[votes["season"] == 46][["castaway_id", "castaway"]] \
+        .drop_duplicates().set_index("castaway_id")["castaway"].to_dict()
+
+    def with_names(df):
+        df = df.copy()
+        df["castaway_a"] = df["castaway_a"].map(names)
+        df["castaway_b"] = df["castaway_b"].map(names)
+        return df
+
+    full = compute_affinity_scores(votes, season=46)
+    print("Full season:")
+    print(with_names(full).sort_values("affinity", ascending=False).head(8).to_string(index=False))
+
+    early = compute_affinity_scores(votes, season=46, up_to_episode=4)
+    print("\nThrough episode 4:")
+    print(with_names(early).sort_values("affinity", ascending=False).head(8).to_string(index=False))
